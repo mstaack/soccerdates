@@ -1,0 +1,31 @@
+:root {
+  --bg: #f6f7f9; --card: #fff; --text: #14171a; --muted: #667085; --line: #e4e7ec;
+  --accent: #0a7d3b; --chip: #e9ecf1; --tv: #e3f4ea; --tv-text: #0a5a2b;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #0e1116; --card: #181c23; --text: #eef0f3; --muted: #98a2b3; --line: #2a303a;
+          --accent: #3ccf7a; --chip: #232934; --tv: #12301f; --tv-text: #7fe3ad; }
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+header, main, footer { max-width: 640px; margin: 0 auto; padding: 0 16px; }
+header { padding-top: 16px; position: sticky; top: 0; background: var(--bg); z-index: 2; padding-bottom: 8px; }
+h1 { margin: 0; font-size: 1.4rem; }
+.muted { color: var(--muted); font-size: .85rem; margin: .2rem 0 0; }
+#chips { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px; }
+.chip { flex: none; border: 0; border-radius: 999px; padding: 8px 14px; font: inherit; font-size: .9rem;
+  background: var(--chip); color: var(--text); cursor: pointer; }
+.chip[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.day { margin: 18px 0 6px; font-size: .95rem; font-weight: 600; color: var(--muted);
+  position: sticky; top: var(--header-h, 126px); background: var(--bg); padding: 4px 0; }
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 12px 14px; margin-bottom: 8px; display: grid; grid-template-columns: 54px 1fr; gap: 2px 12px; }
+.card.started { opacity: .55; }
+.time { font-weight: 700; font-variant-numeric: tabular-nums; grid-row: span 3; }
+.teams { font-weight: 600; }
+.meta { color: var(--muted); font-size: .8rem; }
+.tv { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+.tv span { background: var(--tv); color: var(--tv-text); border-radius: 6px; padding: 2px 8px; font-size: .8rem; font-weight: 600; }
+.tv .open { background: transparent; color: var(--muted); font-weight: 400; padding-left: 0; }
+footer { padding-top: 24px; padding-bottom: 32px; }
