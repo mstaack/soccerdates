@@ -16,16 +16,16 @@ function el(tag, cls, text) {
 
 function renderChips() {
   const box = $('chips');
-  box.replaceChildren();
   for (const c of [{ key: 'all', short: 'Alle', name: 'Alle' }, ...COMPETITIONS]) {
     const b = el('button', 'chip', c.short);
     b.type = 'button';
     b.title = c.name;
+    b.dataset.key = c.key;
     b.setAttribute('aria-pressed', String(c.key === filter));
     b.addEventListener('click', () => {
       filter = c.key;
       try { localStorage.setItem('filter', filter); } catch { /* ignore */ }
-      renderChips();
+      for (const x of box.children) x.setAttribute('aria-pressed', String(x.dataset.key === filter));
       renderList();
     });
     box.append(b);
