@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T19:05:32.230Z",
+ "generatedAt": "2026-10-04T19:06:59.105Z",
  "matches": [
   {
    "id": "192010",
@@ -293,9 +293,9 @@
    "home": "1. FC Heidenheim 1846",
    "away": "1. FC Kaiserslautern",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -306,9 +306,9 @@
    "home": "Eintracht Braunschweig",
    "away": "Holstein Kiel",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -331,10 +331,10 @@
    "home": "SV Darmstadt 98",
    "away": "Energie Cottbus",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Bundesliga 3",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -345,10 +345,10 @@
    "home": "1. FC Magdeburg",
    "away": "Hannover 96",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Bundesliga 4",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -359,10 +359,10 @@
    "home": "VfL Osnabrück",
    "away": "Dynamo Dresden",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Bundesliga 5",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -463,8 +463,7 @@
    "home": "FC St. Pauli",
    "away": "Karlsruher SC",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)",
+    "Sky Sport Bundesliga 1",
     "Sky Sport Bundesliga 2"
    ]
   },
@@ -476,8 +475,7 @@
    "home": "Hertha BSC",
    "away": "SpVgg Greuther Fürth",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)",
+    "Sky Sport Bundesliga 1",
     "Sky Sport Bundesliga 3"
    ]
   },
@@ -489,8 +487,7 @@
    "home": "VfL Bochum",
    "away": "Arminia Bielefeld",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)",
+    "Sky Sport Bundesliga 1",
     "Sky Sport Bundesliga 4"
    ]
   },
@@ -739,8 +736,8 @@
    "home": "Holstein Kiel",
    "away": "Hertha BSC",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -751,8 +748,8 @@
    "home": "Energie Cottbus",
    "away": "1. FC Nürnberg",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -775,9 +772,9 @@
    "home": "VfL Wolfsburg",
    "away": "1. FC Heidenheim 1846",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -788,9 +785,9 @@
    "home": "1. FC Kaiserslautern",
    "away": "VfL Bochum",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -801,9 +798,9 @@
    "home": "SpVgg Greuther Fürth",
    "away": "Eintracht Braunschweig",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -904,8 +901,7 @@
    "home": "Karlsruher SC",
    "away": "SV Darmstadt 98",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)"
+    "Sky Sport Bundesliga 1"
    ]
   },
   {
@@ -916,8 +912,7 @@
    "home": "Dynamo Dresden",
    "away": "1. FC Magdeburg",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)"
+    "Sky Sport Bundesliga 1"
    ]
   },
   {
@@ -928,8 +923,7 @@
    "home": "Arminia Bielefeld",
    "away": "VfL Osnabrück",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)"
+    "Sky Sport Bundesliga 1"
    ]
   },
   {
@@ -1160,8 +1154,8 @@
    "home": "SV Darmstadt 98",
    "away": "FC St. Pauli",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1172,8 +1166,8 @@
    "home": "VfL Bochum",
    "away": "VfL Wolfsburg",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1196,9 +1190,9 @@
    "home": "1. FC Heidenheim 1846",
    "away": "Energie Cottbus",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1209,9 +1203,9 @@
    "home": "Hertha BSC",
    "away": "Arminia Bielefeld",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1222,9 +1216,9 @@
    "home": "1. FC Magdeburg",
    "away": "Karlsruher SC",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Bundesliga 7 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1325,8 +1319,7 @@
    "home": "Holstein Kiel",
    "away": "Dynamo Dresden",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)"
+    "Sky Sport Bundesliga 1"
    ]
   },
   {
@@ -1337,8 +1330,7 @@
    "home": "Eintracht Braunschweig",
    "away": "Hannover 96",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)"
+    "Sky Sport Bundesliga 1"
    ]
   },
   {
@@ -1349,8 +1341,7 @@
    "home": "VfL Osnabrück",
    "away": "SpVgg Greuther Fürth",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
-    "Sky Sport Bundesliga 1 (Konferenz)"
+    "Sky Sport Bundesliga 1"
    ]
   },
   {
@@ -1383,8 +1374,8 @@
    "home": "Arminia Bielefeld",
    "away": "Eintracht Braunschweig",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1395,8 +1386,8 @@
    "home": "Energie Cottbus",
    "away": "VfL Bochum",
    "tv": [
-    "Sky Sport Bundesliga 2 (Konferenz)",
-    "Sky Sport Top Event (Konferenz)"
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -3002,7 +2993,7 @@
    "home": "VfL Wolfsburg",
    "away": "Dynamo Dresden",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3015,7 +3006,7 @@
    "home": "FC St. Pauli",
    "away": "Eintracht Braunschweig",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3028,7 +3019,7 @@
    "home": "1. FC Heidenheim 1846",
    "away": "1. FC Magdeburg",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3041,7 +3032,7 @@
    "home": "Hannover 96",
    "away": "Arminia Bielefeld",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3054,7 +3045,7 @@
    "home": "SV Darmstadt 98",
    "away": "VfL Osnabrück",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3067,7 +3058,7 @@
    "home": "1. FC Nürnberg",
    "away": "Hertha BSC",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3080,7 +3071,7 @@
    "home": "VfL Bochum",
    "away": "Holstein Kiel",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3093,7 +3084,7 @@
    "home": "Karlsruher SC",
    "away": "SpVgg Greuther Fürth",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
@@ -3106,7 +3097,7 @@
    "home": "Energie Cottbus",
    "away": "1. FC Kaiserslautern",
    "tv": [
-    "Sky Sport Bundesliga (Konferenz)",
+    "Sky Sport Bundesliga",
     "Sky X",
     "WOW"
    ]
