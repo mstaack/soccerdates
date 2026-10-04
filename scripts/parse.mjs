@@ -1,5 +1,5 @@
 import { berlinToUtcIso } from './time.mjs';
-import { normalizeChannels } from './channels.mjs';
+import { normalizeChannels, unknownChannels } from './channels.mjs';
 
 const ENTITIES = {
   amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ',
@@ -29,7 +29,7 @@ function required(block, re, what, id) {
 const ICON_RE = /fg-icon-(conference|tv|hdtv|free|internet|mobile|settop|radio)\b/g;
 const CHANNEL_RE = /<li>((?:(?!<\/li>)[\s\S])*?)title="zum Sender">([^<]+)<\/a>/g;
 
-export function parsePage(html, competition) {
+export function parsePage(html, competition, { onUnknown = () => {} } = {}) {
   const tokens = [...html.matchAll(/id="date-(\d{8})"|id="item-game-(\d+)"/g)];
   const matches = [];
   let date = null;
@@ -49,6 +49,8 @@ export function parsePage(html, competition) {
       name: decode(m[2]),
       icons: [...m[1].matchAll(ICON_RE)].map((x) => x[1]),
     }));
+
+    unknownChannels(entries).forEach(onUnknown);
 
     matches.push({
       id, competition, round: decode(round),

@@ -17,7 +17,7 @@ async function readPrevious() {
 
 async function main() {
   const previous = await readPrevious();
-  const { data, failed } = await buildData({ fetchHtml, previous, now: new Date().toISOString(), delayMs: 1000 });
+  const { data, failed, unknown } = await buildData({ fetchHtml, previous, now: new Date().toISOString(), delayMs: 1000 });
   if (sameMatches(previous, data.matches)) {
     console.log('No changes in match data.');
   } else {
@@ -27,7 +27,7 @@ async function main() {
   }
   if (process.env.GITHUB_STEP_SUMMARY) {
     await appendFile(process.env.GITHUB_STEP_SUMMARY,
-      `### soccerdates update\n- matches: ${data.matches.length}\n- failed sources: ${failed.join(', ') || 'none'}\n`);
+      `### soccerdates update\n- matches: ${data.matches.length}\n- failed sources: ${failed.join(', ') || 'none'}\n- unknown channels (consider adding rules): ${unknown.join(', ') || 'none'}\n`);
   }
 }
 

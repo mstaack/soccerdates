@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { classify, normalizeChannels } from '../scripts/channels.mjs';
+import { classify, normalizeChannels, unknownChannels } from '../scripts/channels.mjs';
 
 const e = (name, ...icons) => ({ name, icons });
 
@@ -59,4 +59,17 @@ test('normalizeChannels: unique, ordered free-TV, Sky, DAZN, Prime', () => {
 test('no channels (or only dropped ones) gives an empty list', () => {
   assert.deepEqual(normalizeChannels([]), []);
   assert.deepEqual(normalizeChannels([e('blue Sport', 'tv'), e('ARD Audiothek', 'radio')]), []);
+});
+
+test('Prime Video without the Amazon prefix is kept', () => {
+  assert.equal(classify(e('Prime Video', 'internet')), 'Prime Video');
+});
+
+test('unknownChannels lists unclassified names that are not expected drops', () => {
+  const out = unknownChannels([
+    e('Sky Sport News', 'tv'), e('RTL2', 'free'), e('ProSieben', 'free'), e('ProSieben', 'hdtv'),
+    e('Sky Go', 'mobile'), e('Sky Showcase HD', 'hdtv'), e('blue Sport', 'tv'),
+    e('ARD Audiothek', 'radio'), e('DAZN', 'internet'), e('Sky Sport Bundesliga 3 HD', 'hdtv'),
+  ]);
+  assert.deepEqual(out.sort(), ['ProSieben', 'RTL2', 'Sky Sport News']);
 });

@@ -49,3 +49,15 @@ test('sameMatches ignores generatedAt and detects changes', () => {
   assert.equal(sameMatches([m('1', 'bl1', 'x')], [m('1', 'bl1', 'x')]), true);
   assert.equal(sameMatches([m('1', 'bl1', 'x')], [{ ...m('1', 'bl1', 'x'), tv: ['DAZN'] }]), false);
 });
+
+test('buildData reports unknown channel names', async () => {
+  const { unknown } = await buildData({ fetchHtml: async (u) => byUrl[u], previous: [], now: NOW, log: () => {} });
+  assert.ok(Array.isArray(unknown));
+  const html = `<div id="date-20261009"></div><div id="item-game-1"><span class="meta-time">20:30</span>
+    <div id="match-1"></div><div class="team-home"><a href="#">A</a></div><div class="team-guest"><a href="#">B</a></div>
+    <ul><li><i class="fg-icon-free"></i><a href="#" title="zum Sender">ProSieben</a></li></ul></div>`;
+  const logs = [];
+  const res = await buildData({ fetchHtml: async () => html, previous: [], now: NOW, log: (s) => logs.push(s) });
+  assert.deepEqual(res.unknown, ['ProSieben']);
+  assert.ok(logs.includes('unknown channels: ProSieben'));
+});

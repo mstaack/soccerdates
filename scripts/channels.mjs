@@ -10,7 +10,7 @@ const RULES = [
   [/^Sky Sport( \d+)?( HD| UHD)?$/i, 'Sky Sport'],
   [/^WOW$/i, 'WOW'],
   [/^DAZN\b/i, 'DAZN'],
-  [/^Amazon Prime Video/i, 'Prime Video'],
+  [/^(Amazon )?Prime Video/i, 'Prime Video'],
   [/^(Das Erste|ARD)\b/i, 'ARD'],
   [/^ZDF\b/i, 'ZDF'],
   [/^ORF\b/i, 'ORF'],
@@ -37,6 +37,16 @@ export function classify({ name, icons }) {
     }
   }
   return null;
+}
+
+// Known German-market names we deliberately ignore (not worth logging).
+const IGNORED = /^Sky (Go|Showcase)\b/i;
+
+export function unknownChannels(entries) {
+  const names = entries
+    .filter((e) => classify(e) === null && !e.icons.includes('radio') && !FOREIGN.test(e.name) && !IGNORED.test(e.name))
+    .map((e) => e.name);
+  return [...new Set(names)];
 }
 
 export function normalizeChannels(entries) {

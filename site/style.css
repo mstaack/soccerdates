@@ -1,10 +1,10 @@
 :root {
   --bg: #f6f7f9; --card: #fff; --text: #14171a; --muted: #667085; --line: #e4e7ec;
-  --accent: #0a7d3b; --chip: #e9ecf1; --tv: #e3f4ea; --tv-text: #0a5a2b;
+  --accent: #0a7d3b; --accent-text: #fff; --chip: #e9ecf1; --tv: #e3f4ea; --tv-text: #0a5a2b;
 }
 @media (prefers-color-scheme: dark) {
   :root { --bg: #0e1116; --card: #181c23; --text: #eef0f3; --muted: #98a2b3; --line: #2a303a;
-          --accent: #3ccf7a; --chip: #232934; --tv: #12301f; --tv-text: #7fe3ad; }
+          --accent: #3ccf7a; --accent-text: #0e1116; --chip: #232934; --tv: #12301f; --tv-text: #7fe3ad; }
 }
 * { box-sizing: border-box; }
 body { margin: 0; background: var(--bg); color: var(--text);
@@ -16,7 +16,7 @@ h1 { margin: 0; font-size: 1.4rem; }
 #chips { display: flex; gap: 8px; overflow-x: auto; padding: 10px 0 2px; }
 .chip { flex: none; border: 0; border-radius: 999px; padding: 8px 14px; font: inherit; font-size: .9rem;
   background: var(--chip); color: var(--text); cursor: pointer; }
-.chip[aria-pressed="true"] { background: var(--accent); color: #fff; }
+.chip[aria-pressed="true"] { background: var(--accent); color: var(--accent-text); }
 .day { margin: 18px 0 6px; font-size: .95rem; font-weight: 600; color: var(--muted);
   position: sticky; top: var(--header-h, 126px); background: var(--bg); padding: 4px 0; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px;

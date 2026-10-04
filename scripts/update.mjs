@@ -17,9 +17,10 @@ export function sameMatches(a, b) {
 export async function buildData({ fetchHtml, previous, now, log = console.log, delayMs = 0 }) {
   const fresh = {};
   const failed = [];
+  const unknown = new Set();
   for (const [key, url] of Object.entries(SOURCES)) {
     try {
-      fresh[key] = parsePage(await fetchHtml(url), key);
+      fresh[key] = parsePage(await fetchHtml(url), key, { onUnknown: (n) => unknown.add(n) });
       log(`${key}: ${fresh[key].length} matches`);
     } catch (err) {
       fresh[key] = null;
@@ -31,5 +32,7 @@ export async function buildData({ fetchHtml, previous, now, log = console.log, d
   if (failed.length === Object.keys(SOURCES).length) throw new Error('all sources failed');
   const matches = mergeMatches(previous, fresh);
   if (matches.length === 0) throw new Error('merged result is empty');
-  return { data: { generatedAt: now, matches }, failed };
+  const unknownList = [...unknown].sort();
+  if (unknownList.length) log(`unknown channels: ${unknownList.join(', ')}`);
+  return { data: { generatedAt: now, matches }, failed, unknown: unknownList };
 }
