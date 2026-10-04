@@ -1,0 +1,3073 @@
+{
+ "generatedAt": "2026-10-04T18:47:12.680Z",
+ "matches": [
+  {
+   "id": "192010",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T13:00:00.000Z",
+   "home": "Aserbaidschan",
+   "away": "Litauen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191963",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T16:00:00.000Z",
+   "home": "Kosovo",
+   "away": "Österreich",
+   "tv": [
+    "ORF",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192007",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T16:00:00.000Z",
+   "home": "Malta",
+   "away": "Andorra",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "189441",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T18:45:00.000Z",
+   "home": "Griechenland",
+   "away": "Deutschland",
+   "tv": [
+    "RTL",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191921",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T18:45:00.000Z",
+   "home": "Niederlande",
+   "away": "Serbien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191933",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T18:45:00.000Z",
+   "home": "Portugal",
+   "away": "Norwegen",
+   "tv": []
+  },
+  {
+   "id": "191939",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T18:45:00.000Z",
+   "home": "Wales",
+   "away": "Dänemark",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191961",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-04T18:45:00.000Z",
+   "home": "Irland",
+   "away": "Israel",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191986",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T16:00:00.000Z",
+   "home": "Zypern",
+   "away": "Lettland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "190886",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Frankreich",
+   "away": "Belgien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191918",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Italien",
+   "away": "Türkei",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191951",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Ukraine",
+   "away": "Ungarn",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191956",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Nordirland",
+   "away": "Georgien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191967",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Bosnien-Herzegowina",
+   "away": "Polen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191970",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Rumänien",
+   "away": "Schweden",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191981",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-05T18:45:00.000Z",
+   "home": "Montenegro",
+   "away": "Armenien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191989",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T14:00:00.000Z",
+   "home": "Kasachstan",
+   "away": "Färöer Inseln",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191927",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Kroatien",
+   "away": "Spanien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191930",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "England",
+   "away": "Tschechien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191942",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Schottland",
+   "away": "Slowenien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191944",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Schweiz",
+   "away": "Nordmazedonien",
+   "tv": []
+  },
+  {
+   "id": "191974",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Albanien",
+   "away": "San Marino",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191977",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Belarus",
+   "away": "Finnland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "191995",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Republik Moldau",
+   "away": "Slowakei",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192001",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Estland",
+   "away": "Island",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192004",
+   "competition": "nl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-10-06T18:45:00.000Z",
+   "home": "Luxemburg",
+   "away": "Bulgarien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193802",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-09T16:30:00.000Z",
+   "home": "1. FC Heidenheim 1846",
+   "away": "1. FC Kaiserslautern",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193808",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-09T16:30:00.000Z",
+   "home": "Eintracht Braunschweig",
+   "away": "Holstein Kiel",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "194003",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-09T18:30:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "SV Werder Bremen",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193803",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-10T11:00:00.000Z",
+   "home": "SV Darmstadt 98",
+   "away": "Energie Cottbus",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193807",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-10T11:00:00.000Z",
+   "home": "1. FC Magdeburg",
+   "away": "Hannover 96",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193809",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-10T11:00:00.000Z",
+   "home": "VfL Osnabrück",
+   "away": "Dynamo Dresden",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "194005",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-10T13:30:00.000Z",
+   "home": "1899 Hoffenheim",
+   "away": "Hamburger SV",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194007",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-10T13:30:00.000Z",
+   "home": "FC Augsburg",
+   "away": "FC Bayern München",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194008",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-10T13:30:00.000Z",
+   "home": "1. FSV Mainz 05",
+   "away": "Bayer Leverkusen",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194009",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-10T13:30:00.000Z",
+   "home": "1. FC Union Berlin",
+   "away": "SV Elversberg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194011",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-10T13:30:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194004",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-10T16:30:00.000Z",
+   "home": "RB Leipzig",
+   "away": "Eintracht Frankfurt",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193805",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-10T18:30:00.000Z",
+   "home": "1. FC Nürnberg",
+   "away": "VfL Wolfsburg",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193801",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-11T11:30:00.000Z",
+   "home": "FC St. Pauli",
+   "away": "Karlsruher SC",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193804",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-11T11:30:00.000Z",
+   "home": "Hertha BSC",
+   "away": "SpVgg Greuther Fürth",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193806",
+   "competition": "bl2",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-11T11:30:00.000Z",
+   "home": "VfL Bochum",
+   "away": "Arminia Bielefeld",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "194010",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-11T13:30:00.000Z",
+   "home": "1. FC Köln",
+   "away": "Borussia Mönchengladbach",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194006",
+   "competition": "bl1",
+   "round": "05. Spieltag",
+   "kickoff": "2026-10-11T15:30:00.000Z",
+   "home": "SC Freiburg",
+   "away": "FC Schalke 04",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192150",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T16:45:00.000Z",
+   "home": "RC Lens",
+   "away": "Sporting Lissabon",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192151",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T16:45:00.000Z",
+   "home": "Sabah FK",
+   "away": "Slavia Prag",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192152",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "OSC Lille",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192153",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "Atletico Madrid",
+   "away": "Manchester United",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192154",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "Inter Mailand",
+   "away": "Club Brügge",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192155",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "Galatasaray Istanbul",
+   "away": "FC Barcelona",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192156",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "RB Leipzig",
+   "away": "PSV Eindhoven",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192157",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "Viking Stavanger FK",
+   "away": "FC Bayern München",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192158",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-13T19:00:00.000Z",
+   "home": "FC Villarreal",
+   "away": "SSC Neapel",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192159",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T16:45:00.000Z",
+   "home": "Feyenoord Rotterdam",
+   "away": "Como 1907",
+   "tv": [
+    "Sky Sport Austria",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192160",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T16:45:00.000Z",
+   "home": "Linzer ASK",
+   "away": "FC Liverpool",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192161",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "AS Rom",
+   "away": "Real Madrid",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192162",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "Fenerbahçe Istanbul",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192163",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "Schachtjor Donezk",
+   "away": "AEK Athen",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192164",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "FK Bodø/Glimt",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192165",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Paris St. Germain",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192166",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "Real Betis Balompié",
+   "away": "FC Porto",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "192167",
+   "competition": "ucl",
+   "round": "02. Spieltag",
+   "kickoff": "2026-10-14T19:00:00.000Z",
+   "home": "Slovan Bratislava",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "Sky Sport Austria"
+   ]
+  },
+  {
+   "id": "193815",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-16T16:30:00.000Z",
+   "home": "Holstein Kiel",
+   "away": "Hertha BSC",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193818",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-16T16:30:00.000Z",
+   "home": "Energie Cottbus",
+   "away": "1. FC Nürnberg",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "194014",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-16T18:30:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "1. FC Köln",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193810",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-17T11:00:00.000Z",
+   "home": "VfL Wolfsburg",
+   "away": "1. FC Heidenheim 1846",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193812",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-17T11:00:00.000Z",
+   "home": "1. FC Kaiserslautern",
+   "away": "VfL Bochum",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193817",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-17T11:00:00.000Z",
+   "home": "SpVgg Greuther Fürth",
+   "away": "Eintracht Braunschweig",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "194015",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-17T13:30:00.000Z",
+   "home": "1. FC Union Berlin",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194017",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-17T13:30:00.000Z",
+   "home": "Hamburger SV",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194018",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-17T13:30:00.000Z",
+   "home": "SV Werder Bremen",
+   "away": "SC Paderborn 07",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194019",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-17T13:30:00.000Z",
+   "home": "FC Schalke 04",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194020",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-17T13:30:00.000Z",
+   "home": "SV Elversberg",
+   "away": "FC Augsburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194012",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-17T16:30:00.000Z",
+   "home": "FC Bayern München",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193811",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-17T18:30:00.000Z",
+   "home": "Hannover 96",
+   "away": "FC St. Pauli",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193813",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-18T11:30:00.000Z",
+   "home": "Karlsruher SC",
+   "away": "SV Darmstadt 98",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193814",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-18T11:30:00.000Z",
+   "home": "Dynamo Dresden",
+   "away": "1. FC Magdeburg",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193816",
+   "competition": "bl2",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-18T11:30:00.000Z",
+   "home": "Arminia Bielefeld",
+   "away": "VfL Osnabrück",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "194013",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-18T13:30:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "SC Freiburg",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194016",
+   "competition": "bl1",
+   "round": "06. Spieltag",
+   "kickoff": "2026-10-18T15:30:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "1899 Hoffenheim",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192168",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T16:45:00.000Z",
+   "home": "Fenerbahçe Istanbul",
+   "away": "Slavia Prag",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192169",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T16:45:00.000Z",
+   "home": "Sabah FK",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192170",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "AS Rom",
+   "away": "Slovan Bratislava",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192171",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "FC Porto",
+   "away": "PSV Eindhoven",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192172",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "FC Villarreal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192173",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "Manchester City",
+   "away": "AEK Athen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192174",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "Paris St. Germain",
+   "away": "FC Barcelona",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192175",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "SSC Neapel",
+   "away": "FK Bodø/Glimt",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192176",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-20T19:00:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "Atletico Madrid",
+   "tv": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "192177",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T16:45:00.000Z",
+   "home": "Como 1907",
+   "away": "Manchester United",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192178",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T16:45:00.000Z",
+   "home": "OSC Lille",
+   "away": "Galatasaray Istanbul",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192179",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "Viking Stavanger FK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192180",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "Club Brügge",
+   "away": "RC Lens",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192181",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "FC Bayern München",
+   "away": "FC Arsenal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192182",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "Inter Mailand",
+   "away": "Schachtjor Donezk",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192183",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "Real Betis Balompié",
+   "away": "Feyenoord Rotterdam",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192184",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "Real Madrid",
+   "away": "RB Leipzig",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192185",
+   "competition": "ucl",
+   "round": "03. Spieltag",
+   "kickoff": "2026-10-21T19:00:00.000Z",
+   "home": "Sporting Lissabon",
+   "away": "Linzer ASK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193820",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-23T16:30:00.000Z",
+   "home": "SV Darmstadt 98",
+   "away": "FC St. Pauli",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193823",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-23T16:30:00.000Z",
+   "home": "VfL Bochum",
+   "away": "VfL Wolfsburg",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "195745",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-23T18:30:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "Borussia Mönchengladbach",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193819",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-24T11:00:00.000Z",
+   "home": "1. FC Heidenheim 1846",
+   "away": "Energie Cottbus",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193821",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-24T11:00:00.000Z",
+   "home": "Hertha BSC",
+   "away": "Arminia Bielefeld",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193825",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-24T11:00:00.000Z",
+   "home": "1. FC Magdeburg",
+   "away": "Karlsruher SC",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "195744",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-24T13:30:00.000Z",
+   "home": "RB Leipzig",
+   "away": "SV Elversberg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195748",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-24T13:30:00.000Z",
+   "home": "FC Augsburg",
+   "away": "1. FC Union Berlin",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195749",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-24T13:30:00.000Z",
+   "home": "1. FSV Mainz 05",
+   "away": "SV Werder Bremen",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195750",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-24T13:30:00.000Z",
+   "home": "1. FC Köln",
+   "away": "FC Schalke 04",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195751",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-24T13:30:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "Hamburger SV",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195743",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-24T16:30:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "Eintracht Frankfurt",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193822",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-24T18:30:00.000Z",
+   "home": "1. FC Nürnberg",
+   "away": "1. FC Kaiserslautern",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193824",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-25T12:30:00.000Z",
+   "home": "Holstein Kiel",
+   "away": "Dynamo Dresden",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193826",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-25T12:30:00.000Z",
+   "home": "Eintracht Braunschweig",
+   "away": "Hannover 96",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193827",
+   "competition": "bl2",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-25T12:30:00.000Z",
+   "home": "VfL Osnabrück",
+   "away": "SpVgg Greuther Fürth",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "195746",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-25T14:30:00.000Z",
+   "home": "1899 Hoffenheim",
+   "away": "Bayer Leverkusen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195747",
+   "competition": "bl1",
+   "round": "07. Spieltag",
+   "kickoff": "2026-10-25T16:30:00.000Z",
+   "home": "SC Freiburg",
+   "away": "FC Bayern München",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193834",
+   "competition": "bl2",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-30T17:30:00.000Z",
+   "home": "Arminia Bielefeld",
+   "away": "Eintracht Braunschweig",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193836",
+   "competition": "bl2",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-30T17:30:00.000Z",
+   "home": "Energie Cottbus",
+   "away": "VfL Bochum",
+   "tv": [
+    "Sky Konferenz"
+   ]
+  },
+  {
+   "id": "193833",
+   "competition": "bl2",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-31T19:30:00.000Z",
+   "home": "Karlsruher SC",
+   "away": "1. FC Heidenheim 1846",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "192186",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T17:45:00.000Z",
+   "home": "Schachtjor Donezk",
+   "away": "Sporting Lissabon",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192187",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T17:45:00.000Z",
+   "home": "Galatasaray Istanbul",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192188",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "Atletico Madrid",
+   "away": "FC Bayern München",
+   "tv": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "192189",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "FC Barcelona",
+   "away": "Aston Villa",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192190",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "FK Bodø/Glimt",
+   "away": "OSC Lille",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192191",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "Feyenoord Rotterdam",
+   "away": "Inter Mailand",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192192",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "Linzer ASK",
+   "away": "Slovan Bratislava",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192193",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "Manchester United",
+   "away": "AS Rom",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192194",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-03T20:00:00.000Z",
+   "home": "FC Villarreal",
+   "away": "Paris St. Germain",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192195",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T17:45:00.000Z",
+   "home": "AEK Athen",
+   "away": "Real Madrid",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192196",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T17:45:00.000Z",
+   "home": "Fenerbahçe Istanbul",
+   "away": "FC Liverpool",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192197",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "Real Betis Balompié",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192198",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "FC Porto",
+   "away": "SSC Neapel",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192199",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "PSV Eindhoven",
+   "away": "Club Brügge",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192200",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "RB Leipzig",
+   "away": "Manchester City",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192201",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "RC Lens",
+   "away": "Como 1907",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192202",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "Slavia Prag",
+   "away": "FC Arsenal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192203",
+   "competition": "ucl",
+   "round": "04. Spieltag",
+   "kickoff": "2026-11-04T20:00:00.000Z",
+   "home": "Viking Stavanger FK",
+   "away": "Sabah FK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193838",
+   "competition": "bl2",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-07T19:30:00.000Z",
+   "home": "Hertha BSC",
+   "away": "VfL Wolfsburg",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "195218",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T17:00:00.000Z",
+   "home": "Türkei",
+   "away": "Belgien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195248",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T17:00:00.000Z",
+   "home": "Armenien",
+   "away": "Zypern",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194697",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T19:45:00.000Z",
+   "home": "Italien",
+   "away": "Frankreich",
+   "tv": []
+  },
+  {
+   "id": "195223",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T19:45:00.000Z",
+   "home": "England",
+   "away": "Kroatien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195224",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T19:45:00.000Z",
+   "home": "Tschechien",
+   "away": "Spanien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195243",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T19:45:00.000Z",
+   "home": "Albanien",
+   "away": "Finnland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195246",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T19:45:00.000Z",
+   "home": "San Marino",
+   "away": "Belarus",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195247",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-12T19:45:00.000Z",
+   "home": "Montenegro",
+   "away": "Lettland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195254",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T17:00:00.000Z",
+   "home": "Republik Moldau",
+   "away": "Kasachstan",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "189440",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Serbien",
+   "away": "Deutschland",
+   "tv": [
+    "RTL",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195219",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Niederlande",
+   "away": "Griechenland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195229",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Schottland",
+   "away": "Nordmazedonien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195231",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Slowenien",
+   "away": "Schweiz",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195252",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Slowakei",
+   "away": "Färöer Inseln",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195256",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Bulgarien",
+   "away": "Island",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195258",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Luxemburg",
+   "away": "Estland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195260",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Andorra",
+   "away": "Gibraltar",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195262",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-13T19:45:00.000Z",
+   "home": "Liechtenstein",
+   "away": "Aserbaidschan",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195238",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T14:00:00.000Z",
+   "home": "Kosovo",
+   "away": "Israel",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195227",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T17:00:00.000Z",
+   "home": "Norwegen",
+   "away": "Wales",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195235",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T17:00:00.000Z",
+   "home": "Georgien",
+   "away": "Ungarn",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194100",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T19:45:00.000Z",
+   "home": "Österreich",
+   "away": "Irland",
+   "tv": [
+    "ORF",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195225",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T19:45:00.000Z",
+   "home": "Portugal",
+   "away": "Dänemark",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195236",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T19:45:00.000Z",
+   "home": "Nordirland",
+   "away": "Ukraine",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195241",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T19:45:00.000Z",
+   "home": "Rumänien",
+   "away": "Polen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195242",
+   "competition": "nl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-14T19:45:00.000Z",
+   "home": "Schweden",
+   "away": "Bosnien-Herzegowina",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195249",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T14:00:00.000Z",
+   "home": "Zypern",
+   "away": "Montenegro",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195250",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T14:00:00.000Z",
+   "home": "Lettland",
+   "away": "Armenien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195244",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T17:00:00.000Z",
+   "home": "Finnland",
+   "away": "San Marino",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195245",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T17:00:00.000Z",
+   "home": "Belarus",
+   "away": "Albanien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194696",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T19:45:00.000Z",
+   "home": "Frankreich",
+   "away": "Türkei",
+   "tv": []
+  },
+  {
+   "id": "195217",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T19:45:00.000Z",
+   "home": "Belgien",
+   "away": "Italien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195221",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T19:45:00.000Z",
+   "home": "Spanien",
+   "away": "England",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195222",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-15T19:45:00.000Z",
+   "home": "Kroatien",
+   "away": "Tschechien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195251",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T15:00:00.000Z",
+   "home": "Kasachstan",
+   "away": "Slowakei",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195253",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T15:00:00.000Z",
+   "home": "Färöer Inseln",
+   "away": "Republik Moldau",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195255",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T17:00:00.000Z",
+   "home": "Island",
+   "away": "Luxemburg",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195257",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T17:00:00.000Z",
+   "home": "Estland",
+   "away": "Bulgarien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195261",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T17:00:00.000Z",
+   "home": "Litauen",
+   "away": "Liechtenstein",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "186569",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T19:45:00.000Z",
+   "home": "Deutschland",
+   "away": "Niederlande",
+   "tv": [
+    "ARD"
+   ]
+  },
+  {
+   "id": "195220",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T19:45:00.000Z",
+   "home": "Griechenland",
+   "away": "Serbien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195230",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T19:45:00.000Z",
+   "home": "Schweiz",
+   "away": "Schottland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195232",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T19:45:00.000Z",
+   "home": "Nordmazedonien",
+   "away": "Slowenien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195259",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-16T19:45:00.000Z",
+   "home": "Gibraltar",
+   "away": "Malta",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "194099",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Israel",
+   "away": "Österreich",
+   "tv": [
+    "ORF",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195226",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Dänemark",
+   "away": "Norwegen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195228",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Wales",
+   "away": "Portugal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195233",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Ungarn",
+   "away": "Nordirland",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195234",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Ukraine",
+   "away": "Georgien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195237",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Irland",
+   "away": "Kosovo",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195239",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Polen",
+   "away": "Schweden",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "195240",
+   "competition": "nl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-11-17T19:45:00.000Z",
+   "home": "Bosnien-Herzegowina",
+   "away": "Rumänien",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193847",
+   "competition": "bl2",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-21T19:30:00.000Z",
+   "home": "FC St. Pauli",
+   "away": "VfL Bochum",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "192204",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T17:45:00.000Z",
+   "home": "FK Bodø/Glimt",
+   "away": "Linzer ASK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192205",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T17:45:00.000Z",
+   "home": "Galatasaray Istanbul",
+   "away": "Aston Villa",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192206",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "192207",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "Como 1907",
+   "away": "AEK Athen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192208",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "Feyenoord Rotterdam",
+   "away": "FC Porto",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192209",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "Manchester City",
+   "away": "SSC Neapel",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192210",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "RB Leipzig",
+   "away": "RC Lens",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192211",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192212",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-24T20:00:00.000Z",
+   "home": "Slovan Bratislava",
+   "away": "Real Betis Balompié",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192213",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T17:45:00.000Z",
+   "home": "Slavia Prag",
+   "away": "FC Villarreal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192214",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T17:45:00.000Z",
+   "home": "Sabah FK",
+   "away": "FC Barcelona",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192215",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "Atletico Madrid",
+   "away": "Viking Stavanger FK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192216",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "Club Brügge",
+   "away": "FC Liverpool",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192217",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "Inter Mailand",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192218",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "Schachtjor Donezk",
+   "away": "Fenerbahçe Istanbul",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192219",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "OSC Lille",
+   "away": "FC Bayern München",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192220",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "Paris St. Germain",
+   "away": "AS Rom",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192221",
+   "competition": "ucl",
+   "round": "05. Spieltag",
+   "kickoff": "2026-11-25T20:00:00.000Z",
+   "home": "Sporting Lissabon",
+   "away": "Manchester United",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193863",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-28T19:30:00.000Z",
+   "home": "VfL Osnabrück",
+   "away": "Hannover 96",
+   "tv": [
+    "NITRO",
+    "Sky Sport Bundesliga",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "192222",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T17:45:00.000Z",
+   "home": "Viking Stavanger FK",
+   "away": "Feyenoord Rotterdam",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192223",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T17:45:00.000Z",
+   "home": "FC Villarreal",
+   "away": "Sabah FK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192224",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "AEK Athen",
+   "away": "Galatasaray Istanbul",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192225",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "AS Rom",
+   "away": "Sporting Lissabon",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192226",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "Paris St. Germain",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192227",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "FC Barcelona",
+   "away": "Manchester City",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192228",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "FC Bayern München",
+   "away": "Slavia Prag",
+   "tv": [
+    "Prime Video"
+   ]
+  },
+  {
+   "id": "192229",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "Manchester United",
+   "away": "RB Leipzig",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192230",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-08T20:00:00.000Z",
+   "home": "SSC Neapel",
+   "away": "Club Brügge",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192231",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T17:45:00.000Z",
+   "home": "Real Betis Balompié",
+   "away": "Como 1907",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192232",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T17:45:00.000Z",
+   "home": "Slovan Bratislava",
+   "away": "Schachtjor Donezk",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192233",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Real Madrid",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192234",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "Inter Mailand",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192235",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "Linzer ASK",
+   "away": "Fenerbahçe Istanbul",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192236",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "FC Porto",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192237",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "PSV Eindhoven",
+   "away": "Atletico Madrid",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192238",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "RC Lens",
+   "away": "FK Bodø/Glimt",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192239",
+   "competition": "ucl",
+   "round": "06. Spieltag",
+   "kickoff": "2026-12-09T20:00:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "OSC Lille",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192240",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T17:45:00.000Z",
+   "home": "FK Bodø/Glimt",
+   "away": "Atletico Madrid",
+   "tv": []
+  },
+  {
+   "id": "192241",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T17:45:00.000Z",
+   "home": "Galatasaray Istanbul",
+   "away": "Feyenoord Rotterdam",
+   "tv": []
+  },
+  {
+   "id": "192242",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "AEK Athen",
+   "away": "AS Rom",
+   "tv": []
+  },
+  {
+   "id": "192243",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "Borussia Dortmund",
+   "tv": []
+  },
+  {
+   "id": "192244",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "Inter Mailand",
+   "away": "FC Liverpool",
+   "tv": []
+  },
+  {
+   "id": "192245",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "FC Porto",
+   "away": "Slavia Prag",
+   "tv": []
+  },
+  {
+   "id": "192246",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "OSC Lille",
+   "away": "Slovan Bratislava",
+   "tv": []
+  },
+  {
+   "id": "192247",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "Real Madrid",
+   "away": "Linzer ASK",
+   "tv": []
+  },
+  {
+   "id": "192248",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-19T20:00:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "Club Brügge",
+   "tv": []
+  },
+  {
+   "id": "192249",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T17:45:00.000Z",
+   "home": "Fenerbahçe Istanbul",
+   "away": "FC Villarreal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192250",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T17:45:00.000Z",
+   "home": "Sabah FK",
+   "away": "SSC Neapel",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192251",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "Como 1907",
+   "away": "Paris St. Germain",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192252",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "Manchester United",
+   "away": "FC Bayern München",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192253",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "RB Leipzig",
+   "away": "Schachtjor Donezk",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192254",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "RC Lens",
+   "away": "Manchester City",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192255",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "Real Betis Balompié",
+   "away": "FC Arsenal",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192256",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "Sporting Lissabon",
+   "away": "FC Barcelona",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192257",
+   "competition": "ucl",
+   "round": "07. Spieltag",
+   "kickoff": "2027-01-20T20:00:00.000Z",
+   "home": "Viking Stavanger FK",
+   "away": "PSV Eindhoven",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192258",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "AS Rom",
+   "away": "OSC Lille",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192259",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Sabah FK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192260",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Atletico Madrid",
+   "away": "Fenerbahçe Istanbul",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192261",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "AEK Athen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192262",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Club Brügge",
+   "away": "FK Bodø/Glimt",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192263",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "FC Barcelona",
+   "away": "Como 1907",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192264",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "FC Bayern München",
+   "away": "Real Betis Balompié",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192265",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Schachtjor Donezk",
+   "away": "Real Madrid",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192266",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Feyenoord Rotterdam",
+   "away": "RB Leipzig",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192267",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Linzer ASK",
+   "away": "FC Porto",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192268",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "RC Lens",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192269",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Sporting Lissabon",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192270",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "PSV Eindhoven",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192271",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Paris St. Germain",
+   "away": "Galatasaray Istanbul",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192272",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Slavia Prag",
+   "away": "Aston Villa",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192273",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "SSC Neapel",
+   "away": "Viking Stavanger FK",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192274",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "FC Villarreal",
+   "away": "Manchester United",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "192275",
+   "competition": "ucl",
+   "round": "08. Spieltag",
+   "kickoff": "2027-01-27T20:00:00.000Z",
+   "home": "Slovan Bratislava",
+   "away": "Inter Mailand",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "188724",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "VfL Wolfsburg",
+   "away": "Dynamo Dresden",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188725",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "FC St. Pauli",
+   "away": "Eintracht Braunschweig",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188726",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "1. FC Heidenheim 1846",
+   "away": "1. FC Magdeburg",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188727",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "Hannover 96",
+   "away": "Arminia Bielefeld",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188728",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "SV Darmstadt 98",
+   "away": "VfL Osnabrück",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188729",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "1. FC Nürnberg",
+   "away": "Hertha BSC",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188730",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "VfL Bochum",
+   "away": "Holstein Kiel",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188731",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "Karlsruher SC",
+   "away": "SpVgg Greuther Fürth",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188732",
+   "competition": "bl2",
+   "round": "34. Spieltag",
+   "kickoff": "2027-05-23T13:30:00.000Z",
+   "home": "Energie Cottbus",
+   "away": "1. FC Kaiserslautern",
+   "tv": [
+    "Sky Konferenz",
+    "Sky X",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188463",
+   "competition": "ucl",
+   "round": "Finale",
+   "kickoff": "2027-07-04T22:00:00.000Z",
+   "home": "N.N.",
+   "away": "N.N.",
+   "tv": []
+  }
+ ]
+}
