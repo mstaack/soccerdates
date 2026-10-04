@@ -3,7 +3,7 @@ import { pathToFileURL } from 'node:url';
 import { buildData, sameMatches } from './update.mjs';
 
 const OUT = new URL('../site/data/matches.json', import.meta.url);
-const UA = 'soccerdates/1.0 (+https://github.com/; daily fixture list, 4 requests/day)';
+const UA = 'soccerdates/1.0 (daily fixture list for a personal static page; 4 requests/day)';
 
 async function fetchHtml(url) {
   const res = await fetch(url, { headers: { 'User-Agent': UA, 'Accept-Language': 'de-DE,de;q=0.9' } });
