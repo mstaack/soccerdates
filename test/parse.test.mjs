@@ -26,13 +26,14 @@ test('Bundesliga fixture: first match and counts', () => {
   assert.ok(ms.every((m) => m.timeTbd === undefined));
 });
 
-test('2. Bundesliga fixture: conference + feed channels', () => {
+test('2. Bundesliga fixture: concrete Sky feeds', () => {
   const ms = parsePage(fx('2-bundesliga'), 'bl2');
   assert.equal(ms.length, 42);
   assert.equal(ms[0].home, 'Eintracht Braunschweig');
   assert.equal(ms[0].kickoff, '2026-10-09T16:30:00.000Z');
   assert.ok(ms[0].tv.includes('Sky Sport Bundesliga 4'));
-  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga 2 (Konferenz)'));
+  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga 2'));
+  assert.ok(ms.every((m) => m.tv.every((t) => !/konferenz/i.test(t))), 'no Konferenz labels');
 });
 
 test('Champions League fixture: DAZN, Prime and Austrian Sky kept, Swiss dropped', () => {

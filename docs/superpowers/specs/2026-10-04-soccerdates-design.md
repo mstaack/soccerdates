@@ -30,7 +30,7 @@ Request with a descriptive User-Agent, one request per page, sequential, small d
 
 ### Channel normalization (`channels.mjs`)
 - Keep only German- and Austrian-market broadcasters via an allowlist (Sky Sport Bundesliga n / Top Event / Sky Sport, DAZN, Sat.1, RTL, ARD, ZDF, Prime Video, MagentaSport, Sport1, Joyn, ...). Keep Austrian ones too (Sky Sport Austria, Sky X, ORF, ServusTV). Drop Swiss/French/Italian/other (blue Sport, SRF, RTS, RSI, TF1, Rai, L'Équipe), radio and webradio entries.
-- Merge variants into one label: strip `HD`/`UHD`, `(App)`, `(Amazon)`, numbered feed (`Sky Sport Bundesliga 3` -> `Sky Sport Bundesliga`). Conference feeds shown as `Sky Konferenz`.
+- Merge variants into one label: strip `HD`/`UHD`, `(App)`, `(Amazon)`, HD/UHD suffix. Sky Sport Bundesliga/Austria keep their feed number (`Sky Sport Bundesliga 3`); the generic entry is dropped when a numbered feed is listed. The source's conference icon is ignored (it does not mean the match is a conference).
 - Each match gets `tv: string[]` of unique labels, ordered Free-TV, Sky, DAZN, other. Empty list means "no German channel announced yet".
 - Unknown channel names are logged to the run summary so the allowlist can be extended.
 

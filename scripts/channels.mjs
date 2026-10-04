@@ -29,12 +29,6 @@ const ORDER = ['ARD', 'ZDF', 'ORF', 'ServusTV', 'RTL', 'Sat.1', 'NITRO', 'Sport1
 
 // Sky feeds keep their number ("Sky Sport Bundesliga 3"); HD/UHD variants merge into the plain feed.
 const FEED = /^Sky Sport (Bundesliga|Austria)(?: (\d+))?(?: HD| UHD)?$/i;
-const KONFERENZ = ' (Konferenz)';
-
-// Conference slots on German Sky are marked; the Austrian feed numbers stay as they are.
-const withConference = (label, icons) =>
-  icons.includes('conference') && label.startsWith('Sky Sport') && !label.startsWith('Sky Sport Austria')
-    ? label + KONFERENZ : label;
 
 export function classify({ name, icons }) {
   if (icons.includes('radio')) return null;
@@ -42,10 +36,10 @@ export function classify({ name, icons }) {
   const feed = name.match(FEED);
   if (feed) {
     const base = /austria/i.test(feed[1]) ? 'Sky Sport Austria' : 'Sky Sport Bundesliga';
-    return withConference(feed[2] ? `${base} ${feed[2]}` : base, icons);
+    return feed[2] ? `${base} ${feed[2]}` : base;
   }
   for (const [re, label] of RULES) {
-    if (re.test(name)) return withConference(label, icons);
+    if (re.test(name)) return label;
   }
   return null;
 }
@@ -60,8 +54,8 @@ export function unknownChannels(entries) {
   return [...new Set(names)];
 }
 
-const baseOf = (label) => label.replace(KONFERENZ, '').replace(/ \d+$/, '');
-const feedNumber = (label) => Number(label.match(/ (\d+)(?: \(Konferenz\))?$/)?.[1] ?? 0);
+const baseOf = (label) => label.replace(/ \d+$/, '');
+const feedNumber = (label) => Number(label.match(/ (\d+)$/)?.[1] ?? 0);
 
 export function normalizeChannels(entries) {
   const labels = new Set(entries.map(classify).filter(Boolean));

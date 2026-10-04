@@ -42,10 +42,11 @@ test('channels outside Germany/Austria and radio are dropped', () => {
   assert.equal(classify(e('FC Bayern Webradio', 'free', 'radio')), null);
 });
 
-test('conference feeds on German Sky are marked and keep their feed number', () => {
-  assert.equal(classify(e('Sky Sport Bundesliga 2', 'conference', 'tv')), 'Sky Sport Bundesliga 2 (Konferenz)');
-  assert.equal(classify(e('Sky Sport Bundesliga 2 HD', 'conference', 'hdtv')), 'Sky Sport Bundesliga 2 (Konferenz)');
-  assert.equal(classify(e('Sky Sport Top Event', 'conference', 'tv')), 'Sky Sport Top Event (Konferenz)');
+test('the conference icon does not change the label (it only marks a channel that carries a conference)', () => {
+  assert.equal(classify(e('Sky Sport Bundesliga 2', 'conference', 'tv')), 'Sky Sport Bundesliga 2');
+  assert.equal(classify(e('Sky Sport Bundesliga 2 HD', 'conference', 'hdtv')), 'Sky Sport Bundesliga 2');
+  assert.equal(classify(e('Sky Sport Top Event', 'conference', 'tv')), 'Sky Sport Top Event');
+  assert.equal(classify(e('Sky Sport Austria 1', 'conference', 'tv')), 'Sky Sport Austria 1');
   assert.equal(classify(e('Sky Sport Bundesliga 4', 'tv')), 'Sky Sport Bundesliga 4');
 });
 
