@@ -5,8 +5,10 @@ import { classify, normalizeChannels, unknownChannels } from '../scripts/channel
 const e = (name, ...icons) => ({ name, icons });
 
 test('variants merge into one brand', () => {
-  assert.equal(classify(e('Sky Sport Bundesliga 3 HD', 'hdtv')), 'Sky Sport Bundesliga');
+  assert.equal(classify(e('Sky Sport Bundesliga 3 HD', 'hdtv')), 'Sky Sport Bundesliga 3');
+  assert.equal(classify(e('Sky Sport Bundesliga 3', 'tv')), 'Sky Sport Bundesliga 3');
   assert.equal(classify(e('Sky Sport Bundesliga UHD', 'hdtv')), 'Sky Sport Bundesliga');
+  assert.equal(classify(e('Sky Sport Bundesliga HD', 'hdtv')), 'Sky Sport Bundesliga');
   assert.equal(classify(e('DAZN (App)', 'mobile')), 'DAZN');
   assert.equal(classify(e('DAZN (Apple TV)', 'settop')), 'DAZN');
   assert.equal(classify(e('DAZN 2 HD', 'hdtv')), 'DAZN');
@@ -16,8 +18,8 @@ test('variants merge into one brand', () => {
 });
 
 test('Austrian channels are kept and merged', () => {
-  assert.equal(classify(e('Sky Sport Austria 1', 'conference', 'tv')), 'Sky Sport Austria');
-  assert.equal(classify(e('Sky Sport Austria 3 HD', 'hdtv')), 'Sky Sport Austria');
+  assert.equal(classify(e('Sky Sport Austria 1', 'conference', 'tv')), 'Sky Sport Austria 1');
+  assert.equal(classify(e('Sky Sport Austria 3 HD', 'hdtv')), 'Sky Sport Austria 3');
   assert.equal(classify(e('Sky X (Austria)', 'internet')), 'Sky X');
   assert.equal(classify(e('ORF 1', 'free', 'tv')), 'ORF');
   assert.equal(classify(e('ORF 1 HD', 'free', 'hdtv')), 'ORF');
@@ -40,10 +42,23 @@ test('channels outside Germany/Austria and radio are dropped', () => {
   assert.equal(classify(e('FC Bayern Webradio', 'free', 'radio')), null);
 });
 
-test('conference feeds on Sky become Sky Konferenz', () => {
-  assert.equal(classify(e('Sky Sport Bundesliga 2', 'conference', 'tv')), 'Sky Konferenz');
-  assert.equal(classify(e('Sky Sport Top Event', 'conference', 'tv')), 'Sky Konferenz');
-  assert.equal(classify(e('Sky Sport Bundesliga 4', 'tv')), 'Sky Sport Bundesliga');
+test('conference feeds on German Sky are marked and keep their feed number', () => {
+  assert.equal(classify(e('Sky Sport Bundesliga 2', 'conference', 'tv')), 'Sky Sport Bundesliga 2 (Konferenz)');
+  assert.equal(classify(e('Sky Sport Bundesliga 2 HD', 'conference', 'hdtv')), 'Sky Sport Bundesliga 2 (Konferenz)');
+  assert.equal(classify(e('Sky Sport Top Event', 'conference', 'tv')), 'Sky Sport Top Event (Konferenz)');
+  assert.equal(classify(e('Sky Sport Bundesliga 4', 'tv')), 'Sky Sport Bundesliga 4');
+});
+
+test('the generic Sky Sport Bundesliga entry is dropped when a numbered feed is listed', () => {
+  assert.deepEqual(normalizeChannels([e('Sky Sport Bundesliga', 'tv'), e('Sky Sport Bundesliga 1', 'tv'), e('Sky Sport Top Event', 'tv')]),
+    ['Sky Sport Bundesliga 1', 'Sky Sport Top Event']);
+  assert.deepEqual(normalizeChannels([e('Sky Sport Bundesliga', 'tv'), e('Sky Sport Bundesliga HD', 'hdtv')]), ['Sky Sport Bundesliga']);
+  assert.deepEqual(normalizeChannels([e('Sky Sport Austria', 'tv'), e('Sky Sport Austria 3', 'tv')]), ['Sky Sport Austria 3']);
+});
+
+test('numbered feeds sort numerically', () => {
+  assert.deepEqual(normalizeChannels([e('Sky Sport Bundesliga 10', 'tv'), e('Sky Sport Bundesliga 2', 'tv'), e('DAZN', 'internet')]),
+    ['Sky Sport Bundesliga 2', 'Sky Sport Bundesliga 10', 'DAZN']);
 });
 
 test('normalizeChannels: unique, ordered free-TV, Sky, DAZN, Prime', () => {
@@ -53,7 +68,7 @@ test('normalizeChannels: unique, ordered free-TV, Sky, DAZN, Prime', () => {
     e('Amazon Prime Video', 'internet'), e('NITRO', 'free', 'tv'), e('Sky Sport Austria 1', 'tv'),
     e('ORF 1', 'free', 'tv'), e('blue Sport', 'tv'),
   ]);
-  assert.deepEqual(out, ['ORF', 'NITRO', 'Sky Sport Bundesliga', 'Sky Sport Austria', 'DAZN', 'Prime Video']);
+  assert.deepEqual(out, ['ORF', 'NITRO', 'Sky Sport Bundesliga 4', 'Sky Sport Austria 1', 'DAZN', 'Prime Video']);
 });
 
 test('no channels (or only dropped ones) gives an empty list', () => {

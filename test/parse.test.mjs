@@ -20,8 +20,10 @@ test('Bundesliga fixture: first match and counts', () => {
     { ...ms[0], tv: undefined },
     { id: '194003', competition: 'bl1', round: '05. Spieltag', kickoff: '2026-10-09T18:30:00.000Z',
       home: 'Borussia Dortmund', away: 'SV Werder Bremen', tv: undefined });
-  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga'));
+  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga 1'), 'concrete feed number is shown');
+  assert.ok(!ms[0].tv.includes('Sky Sport Bundesliga'), 'generic entry dropped when a numbered feed exists');
   assert.ok(ms.some((m) => m.tv.includes('DAZN')), 'DAZN listed for matches must be kept');
+  assert.ok(ms.every((m) => m.timeTbd === undefined));
 });
 
 test('2. Bundesliga fixture: conference + feed channels', () => {
@@ -29,8 +31,8 @@ test('2. Bundesliga fixture: conference + feed channels', () => {
   assert.equal(ms.length, 42);
   assert.equal(ms[0].home, 'Eintracht Braunschweig');
   assert.equal(ms[0].kickoff, '2026-10-09T16:30:00.000Z');
-  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga'));
-  assert.ok(ms[0].tv.includes('Sky Konferenz'));
+  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga 4'));
+  assert.ok(ms[0].tv.includes('Sky Sport Bundesliga 2 (Konferenz)'));
 });
 
 test('Champions League fixture: DAZN, Prime and Austrian Sky kept, Swiss dropped', () => {
@@ -41,8 +43,8 @@ test('Champions League fixture: DAZN, Prime and Austrian Sky kept, Swiss dropped
   const all = new Set(ms.flatMap((m) => m.tv));
   assert.ok(all.has('DAZN'));
   assert.ok(all.has('Prime Video'));
-  assert.ok(all.has('Sky Sport Austria'));
-  for (const bad of ['blue Sport', 'Sky Sport Austria 1', 'Sky Sport Austria 1 HD']) assert.ok(!all.has(bad));
+  assert.ok(all.has('Sky Sport Austria 1'));
+  for (const bad of ['blue Sport', 'Sky Sport Austria 1 HD', 'Sky Sport Austria']) assert.ok(!all.has(bad));
 });
 
 test('Nations League fixture', () => {
@@ -64,6 +66,15 @@ test('every parsed match is well-formed in every fixture', () => {
       assert.ok(Array.isArray(m.tv));
     }
   }
+});
+
+test('placeholder kickoff time (source says "Uhrzeit nicht fix!") is flagged timeTbd', () => {
+  const ms = parsePage(fx('uefa-champions-league'), 'ucl');
+  const final = ms.find((m) => m.id === '188463');
+  assert.equal(final.timeTbd, true);
+  assert.equal(final.round, 'Finale');
+  assert.equal(ms.filter((m) => m.timeTbd).length, 1);
+  assert.ok(ms.filter((m) => !m.timeTbd).every((m) => m.timeTbd === undefined));
 });
 
 test('a game without channels yields tv: []', () => {

@@ -44,6 +44,8 @@ export function parsePage(html, competition, { onUnknown = () => {} } = {}) {
     const home = required(block, /team-home">\s*<a[^>]*>([^<]+)</, 'home team', gameId);
     const away = required(block, /team-guest">\s*<a[^>]*>([^<]+)</, 'away team', gameId);
     const round = block.match(/meta-phase[^>]*>([^<]*)</)?.[1] ?? '';
+    // The source shows 00:00 plus this marker when the real kickoff time is not set yet.
+    const timeTbd = /meta-detail[^>]*>\s*Uhrzeit nicht fix/i.test(block);
 
     const entries = [...block.matchAll(CHANNEL_RE)].map((m) => ({
       name: decode(m[2]),
@@ -56,6 +58,7 @@ export function parsePage(html, competition, { onUnknown = () => {} } = {}) {
       id, competition, round: decode(round),
       kickoff: berlinToUtcIso(date, time.padStart(5, '0')),
       home, away, tv: normalizeChannels(entries),
+      ...(timeTbd && { timeTbd: true }),
     });
   });
   if (matches.length === 0) throw new Error(`no matches parsed for ${competition}`);

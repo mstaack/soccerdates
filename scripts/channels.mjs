@@ -24,17 +24,28 @@ const RULES = [
 ];
 
 const ORDER = ['ARD', 'ZDF', 'ORF', 'ServusTV', 'RTL', 'Sat.1', 'NITRO', 'Sport1', 'Joyn',
-  'Sky Sport Bundesliga', 'Sky Konferenz', 'Sky Sport Top Event', 'Sky Sport', 'Sky Sport Austria', 'Sky X', 'WOW',
+  'Sky Sport Bundesliga', 'Sky Sport Top Event', 'Sky Sport', 'Sky Sport Austria', 'Sky X', 'WOW',
   'DAZN', 'Prime Video', 'MagentaSport'];
+
+// Sky feeds keep their number ("Sky Sport Bundesliga 3"); HD/UHD variants merge into the plain feed.
+const FEED = /^Sky Sport (Bundesliga|Austria)(?: (\d+))?(?: HD| UHD)?$/i;
+const KONFERENZ = ' (Konferenz)';
+
+// Conference slots on German Sky are marked; the Austrian feed numbers stay as they are.
+const withConference = (label, icons) =>
+  icons.includes('conference') && label.startsWith('Sky Sport') && !label.startsWith('Sky Sport Austria')
+    ? label + KONFERENZ : label;
 
 export function classify({ name, icons }) {
   if (icons.includes('radio')) return null;
   if (FOREIGN.test(name)) return null;
+  const feed = name.match(FEED);
+  if (feed) {
+    const base = /austria/i.test(feed[1]) ? 'Sky Sport Austria' : 'Sky Sport Bundesliga';
+    return withConference(feed[2] ? `${base} ${feed[2]}` : base, icons);
+  }
   for (const [re, label] of RULES) {
-    if (re.test(name)) {
-      return icons.includes('conference') && label.startsWith('Sky Sport') && label !== 'Sky Sport Austria'
-        ? 'Sky Konferenz' : label;
-    }
+    if (re.test(name)) return withConference(label, icons);
   }
   return null;
 }
@@ -49,7 +60,15 @@ export function unknownChannels(entries) {
   return [...new Set(names)];
 }
 
+const baseOf = (label) => label.replace(KONFERENZ, '').replace(/ \d+$/, '');
+const feedNumber = (label) => Number(label.match(/ (\d+)(?: \(Konferenz\))?$/)?.[1] ?? 0);
+
 export function normalizeChannels(entries) {
   const labels = new Set(entries.map(classify).filter(Boolean));
-  return [...labels].sort((a, b) => ORDER.indexOf(a) - ORDER.indexOf(b));
+  // A plain "Sky Sport Bundesliga" entry is redundant once a concrete feed is known.
+  for (const base of ['Sky Sport Bundesliga', 'Sky Sport Austria']) {
+    if ([...labels].some((l) => l !== base && baseOf(l) === base && feedNumber(l) > 0)) labels.delete(base);
+  }
+  return [...labels].sort((a, b) =>
+    ORDER.indexOf(baseOf(a)) - ORDER.indexOf(baseOf(b)) || feedNumber(a) - feedNumber(b) || a.localeCompare(b));
 }

@@ -14,6 +14,10 @@ export const berlinDay = (iso) => dayFmt.format(new Date(iso));
 export const berlinTime = (iso) => timeFmt.format(new Date(iso));
 export const dayHeading = (iso) => headFmt.format(new Date(iso));
 
+// Kickoff placeholder (the source has no final time yet): show "–:–" and never dim as started.
+export const displayTime = (m) => (m.timeTbd ? '–:–' : berlinTime(m.kickoff));
+export const hasStarted = (m, now) => !m.timeTbd && new Date(m.kickoff) < now;
+
 export function groupByDay(matches, { now, filter }) {
   const today = berlinDay(now);
   const days = new Map();

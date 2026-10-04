@@ -1,4 +1,4 @@
-import { COMPETITIONS, groupByDay, berlinTime } from './lib.mjs';
+import { COMPETITIONS, groupByDay, displayTime, hasStarted } from './lib.mjs';
 
 const $ = (id) => document.getElementById(id);
 let data = { matches: [], generatedAt: null };
@@ -41,8 +41,8 @@ function renderList() {
   for (const d of days) {
     list.append(el('h2', 'day', d.heading));
     for (const m of d.matches) {
-      const card = el('article', 'card' + (new Date(m.kickoff) < now ? ' started' : ''));
-      card.append(el('div', 'time', berlinTime(m.kickoff)));
+      const card = el('article', 'card' + (hasStarted(m, now) ? ' started' : ''));
+      card.append(el('div', 'time', displayTime(m)));
       card.append(el('div', 'teams', `${m.home} – ${m.away}`));
       const comp = COMPETITIONS.find((c) => c.key === m.competition);
       card.append(el('div', 'meta', [comp?.name, m.round].filter(Boolean).join(' · ')));

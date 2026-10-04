@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { berlinDay, berlinTime, dayHeading, groupByDay, COMPETITIONS } from '../site/lib.mjs';
+import { berlinDay, berlinTime, dayHeading, groupByDay, displayTime, hasStarted, COMPETITIONS } from '../site/lib.mjs';
 
 const m = (id, competition, kickoff) => ({ id, competition, round: '', kickoff, home: 'H', away: 'A', tv: [] });
 
@@ -32,4 +32,13 @@ test('groupByDay drops past days, keeps today, sorts, and filters', () => {
 
 test('competition list is complete', () => {
   assert.deepEqual(COMPETITIONS.map((c) => c.key), ['bl1', 'bl2', 'ucl', 'nl']);
+});
+
+test('matches with an unknown kickoff time show a placeholder and never count as started', () => {
+  const tbd = { ...m('f', 'ucl', '2027-07-04T22:00:00Z'), timeTbd: true };
+  assert.equal(displayTime(tbd), '–:–');
+  assert.equal(displayTime(m('a', 'bl1', '2026-10-24T16:30:00Z')), '18:30');
+  assert.equal(hasStarted(tbd, new Date('2027-07-05T10:00:00Z')), false);
+  assert.equal(hasStarted(m('a', 'bl1', '2026-10-24T16:30:00Z'), new Date('2026-10-24T17:00:00Z')), true);
+  assert.equal(hasStarted(m('a', 'bl1', '2026-10-24T16:30:00Z'), new Date('2026-10-24T16:00:00Z')), false);
 });
