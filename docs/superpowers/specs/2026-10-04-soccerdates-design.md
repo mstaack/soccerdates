@@ -1,7 +1,7 @@
 # soccerdates — design
 
 ## Goal
-A free, mobile-friendly static page (GitHub Pages, `<user>.github.io/soccerdates`) that lists upcoming fixtures of 1. Bundesliga, 2. Bundesliga, UEFA Champions League and UEFA Nations League, **with the German TV/stream channel for each match**. Data is refreshed daily by a GitHub Action. Germany only.
+A free, mobile-friendly static page (GitHub Pages, `<user>.github.io/soccerdates`) that lists upcoming fixtures of 1. Bundesliga, 2. Bundesliga, UEFA Champions League and UEFA Nations League, **with the German TV/stream channel for each match**. Data is refreshed daily by a GitHub Action. German and Austrian channels.
 
 ## Decisions (agreed)
 - **Single data source: fussballgucken.info.** It provides fixtures, kickoff times and per-match German channels for all four competitions. No ESPN, no tvspielfilm, no fallback rules file.
@@ -29,7 +29,7 @@ Request with a descriptive User-Agent, one request per page, sequential, small d
 - Kickoff converted to a UTC ISO string (Europe/Berlin -> UTC, DST-aware).
 
 ### Channel normalization (`channels.mjs`)
-- Keep only German-market broadcasters via an allowlist (Sky Sport Bundesliga n / Top Event / Sky Sport, DAZN, Sat.1, RTL, ARD, ZDF, Prime Video, MagentaSport, Sport1, Joyn, ...). Drop Austrian/Swiss/other (ORF, Sky Austria, blue Sport, L'Équipe), radio and webradio entries.
+- Keep only German- and Austrian-market broadcasters via an allowlist (Sky Sport Bundesliga n / Top Event / Sky Sport, DAZN, Sat.1, RTL, ARD, ZDF, Prime Video, MagentaSport, Sport1, Joyn, ...). Keep Austrian ones too (Sky Sport Austria, Sky X, ORF, ServusTV). Drop Swiss/French/Italian/other (blue Sport, SRF, RTS, RSI, TF1, Rai, L'Équipe), radio and webradio entries.
 - Merge variants into one label: strip `HD`/`UHD`, `(App)`, `(Amazon)`, numbered feed (`Sky Sport Bundesliga 3` -> `Sky Sport Bundesliga`). Conference feeds shown as `Sky Konferenz`.
 - Each match gets `tv: string[]` of unique labels, ordered Free-TV, Sky, DAZN, other. Empty list means "no German channel announced yet".
 - Unknown channel names are logged to the run summary so the allowlist can be extended.
@@ -59,7 +59,7 @@ Workflow uses `actions/checkout`, `setup-node@v4` (Node 20), commits `site/data/
 `node --test`: parser against saved HTML fixtures of each of the 4 pages, Berlin->UTC conversion across the DST change (2026-10-25), channel normalization table (Sky HD variant, DAZN app, ORF dropped, conference), change-detection logic. Manual check of the page at phone width with Chrome DevTools.
 
 ## Out of scope
-Scores/results, team favorites, notifications, other competitions, non-German channels, a custom domain (free `github.io` URL is used).
+Scores/results, team favorites, notifications, other competitions, Swiss/other-country channels, a custom domain (free `github.io` URL is used).
 
 ## Risks
 - Single scrape source: markup changes break parsing (mitigated by fixtures, loud failure, stale-data fallback). Terms of use not reviewed; load is 4 requests/day.

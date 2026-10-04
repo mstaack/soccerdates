@@ -14,8 +14,8 @@
 
 - Single data source: `https://fussballgucken.info/wettbewerb/{bundesliga,2-bundesliga,uefa-champions-league,nations-league}` — 4 requests per run, sequential, descriptive User-Agent.
 - No runtime dependencies, no build step, no framework. Node 20 (`engines`), tests via `node --test`.
-- Germany only: keep German-market channels only; drop Austrian/Swiss/other-country channels and radio. **DAZN and Prime Video must always be kept when listed** (user requirement).
-- Merge channel variants: strip `HD`/`UHD`, `(App)`/`(Amazon)`/… suffixes and numbered feeds. Conference feeds on Sky show as `Sky Konferenz`.
+- German and Austrian channels only: keep German- and Austria-market channels (incl. Sky Sport Austria, ORF, ServusTV); drop Swiss/French/Italian/other-country channels and radio. **DAZN and Prime Video must always be kept when listed** (user requirement).
+- Merge channel variants: strip `HD`/`UHD`, `(App)`/`(Amazon)`/… suffixes and numbered feeds (`Sky Sport Austria 3 HD` → `Sky Sport Austria`). Conference feeds on German Sky show as `Sky Konferenz`.
 - Kickoff times on the source are Europe/Berlin; store as UTC ISO strings; display in Europe/Berlin.
 - Competition keys: `bl1`, `bl2`, `ucl`, `nl`.
 - Fixtures only (no scores). Past days are not shown. Empty channel list shows "TV: noch offen".
@@ -166,7 +166,7 @@ git commit -m "feat: project scaffold and Berlin to UTC conversion"
 **Interfaces:**
 - Consumes: entries `{ name: string, icons: string[] }` where `icons` are the source's icon names (`tv`, `hdtv`, `free`, `internet`, `mobile`, `settop`, `radio`, `conference`).
 - Produces:
-  - `classify(entry): string | null` — German brand label or `null` (dropped).
+  - `classify(entry): string | null` — German/Austrian brand label or `null` (dropped).
   - `normalizeChannels(entries): string[]` — unique labels, ordered free-TV, Sky, DAZN, Prime, other.
 
 - [ ] **Step 1: Write the failing test** — `test/channels.test.mjs`
@@ -186,6 +186,16 @@ test('variants merge into one brand', () => {
   assert.equal(classify(e('DAZN 2 HD', 'hdtv')), 'DAZN');
   assert.equal(classify(e('RTL+', 'internet')), 'RTL');
   assert.equal(classify(e('Das Erste HD', 'free', 'hdtv')), 'ARD');
+  assert.equal(classify(e('DAZN (Austria)', 'internet')), 'DAZN');
+});
+
+test('Austrian channels are kept and merged', () => {
+  assert.equal(classify(e('Sky Sport Austria 1', 'conference', 'tv')), 'Sky Sport Austria');
+  assert.equal(classify(e('Sky Sport Austria 3 HD', 'hdtv')), 'Sky Sport Austria');
+  assert.equal(classify(e('Sky X (Austria)', 'internet')), 'Sky X');
+  assert.equal(classify(e('ORF 1', 'free', 'tv')), 'ORF');
+  assert.equal(classify(e('ORF 1 HD', 'free', 'hdtv')), 'ORF');
+  assert.equal(classify(e('ORF ON', 'free', 'internet')), 'ORF');
 });
 
 test('DAZN and Prime Video are always kept', () => {
@@ -194,10 +204,10 @@ test('DAZN and Prime Video are always kept', () => {
   assert.equal(classify(e('Amazon Prime Video (App)', 'mobile')), 'Prime Video');
 });
 
-test('non-German channels and radio are dropped', () => {
-  for (const n of ['Sky Sport Austria 1', 'blue Sport', 'blue Sport HD', 'ORF 1', 'RSI LA 2', 'SRF zwei',
-    'TF1', 'CANAL+', "L'Équipe Live Football", 'DAZN (Austria)', 'DAZN (Schweiz)', 'Sky (Schweiz)',
-    'Sky X (Austria)', 'Swisscom blue TV App', 'Sky Go', 'Sky Showcase HD']) {
+test('channels outside Germany/Austria and radio are dropped', () => {
+  for (const n of ['blue Sport', 'blue Sport HD', 'blue Sport (Livestream)', 'RSI LA 2', 'SRF zwei', 'RTS 2',
+    'TF1', 'Rai 1', 'CANAL+', "L'Équipe Live Football", 'DAZN (Schweiz)', 'Sky (Schweiz)',
+    'Swisscom blue TV App', 'Sky Go', 'Sky Showcase HD']) {
     assert.equal(classify(e(n, 'tv')), null, n);
   }
   assert.equal(classify(e('ARD Audiothek', 'free', 'radio')), null);
@@ -215,8 +225,9 @@ test('normalizeChannels: unique, ordered free-TV, Sky, DAZN, Prime', () => {
     e('DAZN', 'internet'), e('DAZN (App)', 'mobile'),
     e('Sky Sport Bundesliga 4', 'tv'), e('Sky Sport Bundesliga 4 HD', 'hdtv'),
     e('Amazon Prime Video', 'internet'), e('NITRO', 'free', 'tv'), e('Sky Sport Austria 1', 'tv'),
+    e('ORF 1', 'free', 'tv'), e('blue Sport', 'tv'),
   ]);
-  assert.deepEqual(out, ['NITRO', 'Sky Sport Bundesliga', 'DAZN', 'Prime Video']);
+  assert.deepEqual(out, ['ORF', 'NITRO', 'Sky Sport Bundesliga', 'Sky Sport Austria', 'DAZN', 'Prime Video']);
 });
 
 test('no channels (or only dropped ones) gives an empty list', () => {
@@ -233,12 +244,14 @@ Expected: FAIL — cannot find module `../scripts/channels.mjs`.
 - [ ] **Step 3: Implement** — `scripts/channels.mjs`
 
 ```js
-// Non-German markets: dropped before any brand rule is applied.
-const FOREIGN = /austria|schweiz|\(ch\)|zattoo ch|\bblue\b|swisscom|\bORF\b|\bRSI\b|\bRTS\b|\bSRF\b|\bTF1\b|\bRai\b|canal\+|mediaset|\bTV8\b|équipe|equipe/i;
+// Markets other than Germany/Austria: dropped before any brand rule is applied.
+const FOREIGN = /schweiz|\(ch\)|zattoo ch|\bblue\b|swisscom|\bRSI\b|\bRTS\b|\bSRF\b|\bTF1\b|\bRai\b|canal\+|mediaset|\bTV8\b|équipe|equipe/i;
 
 // First match wins. Anything matching no rule is dropped (Sky Go, Sky Showcase, ...).
 const RULES = [
   [/^Sky Sport Bundesliga/i, 'Sky Sport Bundesliga'],
+  [/^Sky Sport Austria/i, 'Sky Sport Austria'],
+  [/^Sky X\b/i, 'Sky X'],
   [/^Sky Sport Top Event/i, 'Sky Sport Top Event'],
   [/^Sky Sport( \d+)?( HD| UHD)?$/i, 'Sky Sport'],
   [/^WOW$/i, 'WOW'],
@@ -246,6 +259,8 @@ const RULES = [
   [/^Amazon Prime Video/i, 'Prime Video'],
   [/^(Das Erste|ARD)\b/i, 'ARD'],
   [/^ZDF\b/i, 'ZDF'],
+  [/^ORF\b/i, 'ORF'],
+  [/^ServusTV\b/i, 'ServusTV'],
   [/^RTL\b/i, 'RTL'],
   [/^NITRO\b/i, 'NITRO'],
   [/^SAT\.?1\b/i, 'Sat.1'],
@@ -254,8 +269,8 @@ const RULES = [
   [/^Joyn\b/i, 'Joyn'],
 ];
 
-const ORDER = ['ARD', 'ZDF', 'RTL', 'Sat.1', 'NITRO', 'Sport1', 'Joyn',
-  'Sky Sport Bundesliga', 'Sky Konferenz', 'Sky Sport Top Event', 'Sky Sport', 'WOW',
+const ORDER = ['ARD', 'ZDF', 'ORF', 'ServusTV', 'RTL', 'Sat.1', 'NITRO', 'Sport1', 'Joyn',
+  'Sky Sport Bundesliga', 'Sky Konferenz', 'Sky Sport Top Event', 'Sky Sport', 'Sky Sport Austria', 'Sky X', 'WOW',
   'DAZN', 'Prime Video', 'MagentaSport'];
 
 export function classify({ name, icons }) {
@@ -263,7 +278,8 @@ export function classify({ name, icons }) {
   if (FOREIGN.test(name)) return null;
   for (const [re, label] of RULES) {
     if (re.test(name)) {
-      return icons.includes('conference') && label.startsWith('Sky Sport') ? 'Sky Konferenz' : label;
+      return icons.includes('conference') && label.startsWith('Sky Sport') && label !== 'Sky Sport Austria'
+        ? 'Sky Konferenz' : label;
     }
   }
   return null;
@@ -341,7 +357,7 @@ test('2. Bundesliga fixture: conference + feed channels', () => {
   assert.ok(ms[0].tv.includes('Sky Konferenz'));
 });
 
-test('Champions League fixture: DAZN kept, Austrian/Swiss channels dropped', () => {
+test('Champions League fixture: DAZN, Prime and Austrian Sky kept, Swiss dropped', () => {
   const ms = parsePage(fx('uefa-champions-league'), 'ucl');
   assert.equal(ms.length, 127);
   assert.equal(ms[0].home, 'Sabah FK');
@@ -349,7 +365,8 @@ test('Champions League fixture: DAZN kept, Austrian/Swiss channels dropped', () 
   const all = new Set(ms.flatMap((m) => m.tv));
   assert.ok(all.has('DAZN'));
   assert.ok(all.has('Prime Video'));
-  for (const bad of ['blue Sport', 'Sky Sport Austria 1']) assert.ok(!all.has(bad));
+  assert.ok(all.has('Sky Sport Austria'));
+  for (const bad of ['blue Sport', 'Sky Sport Austria 1', 'Sky Sport Austria 1 HD']) assert.ok(!all.has(bad));
 });
 
 test('Nations League fixture', () => {
@@ -359,6 +376,7 @@ test('Nations League fixture', () => {
   assert.equal(ms[0].kickoff, '2026-10-04T13:00:00.000Z');
   assert.ok(ms.some((m) => m.tv.includes('RTL')));
   assert.ok(ms.some((m) => m.tv.includes('ARD')));
+  assert.ok(ms.some((m) => m.tv.includes('ORF')));
 });
 
 test('every parsed match is well-formed in every fixture', () => {
