@@ -1,94 +1,6 @@
 {
- "generatedAt": "2026-10-04T19:06:59.105Z",
+ "generatedAt": "2026-10-05T11:59:15.271Z",
  "matches": [
-  {
-   "id": "192010",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T13:00:00.000Z",
-   "home": "Aserbaidschan",
-   "away": "Litauen",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191963",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T16:00:00.000Z",
-   "home": "Kosovo",
-   "away": "Österreich",
-   "tv": [
-    "ORF",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192007",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T16:00:00.000Z",
-   "home": "Malta",
-   "away": "Andorra",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "189441",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T18:45:00.000Z",
-   "home": "Griechenland",
-   "away": "Deutschland",
-   "tv": [
-    "RTL",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191921",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T18:45:00.000Z",
-   "home": "Niederlande",
-   "away": "Serbien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191933",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T18:45:00.000Z",
-   "home": "Portugal",
-   "away": "Norwegen",
-   "tv": []
-  },
-  {
-   "id": "191939",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T18:45:00.000Z",
-   "home": "Wales",
-   "away": "Dänemark",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191961",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-04T18:45:00.000Z",
-   "home": "Irland",
-   "away": "Israel",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "191986",
    "competition": "nl",
@@ -399,8 +311,8 @@
    "home": "1. FSV Mainz 05",
    "away": "Bayer Leverkusen",
    "tv": [
+    "RTL",
     "Sky Sport Bundesliga 3",
-    "WOW",
     "DAZN"
    ]
   },
