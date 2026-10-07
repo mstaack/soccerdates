@@ -1,114 +1,6 @@
 {
- "generatedAt": "2026-10-06T11:41:06.985Z",
+ "generatedAt": "2026-10-07T11:28:28.105Z",
  "matches": [
-  {
-   "id": "191989",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T14:00:00.000Z",
-   "home": "Kasachstan",
-   "away": "Färöer Inseln",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191927",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Kroatien",
-   "away": "Spanien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191930",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "England",
-   "away": "Tschechien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191942",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Schottland",
-   "away": "Slowenien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191944",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Schweiz",
-   "away": "Nordmazedonien",
-   "tv": []
-  },
-  {
-   "id": "191974",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Albanien",
-   "away": "San Marino",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191977",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Belarus",
-   "away": "Finnland",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "191995",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Republik Moldau",
-   "away": "Slowakei",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192001",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Estland",
-   "away": "Island",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192004",
-   "competition": "nl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-10-06T18:45:00.000Z",
-   "home": "Luxemburg",
-   "away": "Bulgarien",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "193802",
    "competition": "bl2",
@@ -198,7 +90,6 @@
    "away": "Hamburger SV",
    "tv": [
     "Sky Sport Bundesliga 2",
-    "WOW",
     "DAZN"
    ]
   },
@@ -211,7 +102,6 @@
    "away": "FC Bayern München",
    "tv": [
     "Sky Sport Bundesliga",
-    "WOW",
     "DAZN"
    ]
   },
@@ -237,7 +127,6 @@
    "away": "SV Elversberg",
    "tv": [
     "Sky Sport Bundesliga 4",
-    "WOW",
     "DAZN"
    ]
   },
@@ -250,7 +139,6 @@
    "away": "VfB Stuttgart",
    "tv": [
     "Sky Sport Bundesliga 5",
-    "WOW",
     "DAZN"
    ]
   },
@@ -955,9 +843,7 @@
    "kickoff": "2026-10-21T19:00:00.000Z",
    "home": "Real Madrid",
    "away": "RB Leipzig",
-   "tv": [
-    "DAZN"
-   ]
+   "tv": []
   },
   {
    "id": "192185",
