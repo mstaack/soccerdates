@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T11:28:28.105Z",
+ "generatedAt": "2026-10-08T11:43:59.265Z",
  "matches": [
   {
    "id": "193802",
@@ -234,7 +234,8 @@
    "away": "Sporting Lissabon",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 3"
+    "Sky Sport Austria 3",
+    "DAZN"
    ]
   },
   {
@@ -246,7 +247,8 @@
    "away": "Slavia Prag",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 4"
+    "Sky Sport Austria 4",
+    "DAZN"
    ]
   },
   {
@@ -258,7 +260,8 @@
    "away": "OSC Lille",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 6"
+    "Sky Sport Austria 6",
+    "DAZN"
    ]
   },
   {
@@ -270,7 +273,8 @@
    "away": "Manchester United",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 3"
+    "Sky Sport Austria 3",
+    "DAZN"
    ]
   },
   {
@@ -282,7 +286,8 @@
    "away": "Club Brügge",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 8"
+    "Sky Sport Austria 8",
+    "DAZN"
    ]
   },
   {
@@ -294,7 +299,8 @@
    "away": "FC Barcelona",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 4"
+    "Sky Sport Austria 4",
+    "DAZN"
    ]
   },
   {
@@ -306,7 +312,8 @@
    "away": "PSV Eindhoven",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 5"
+    "Sky Sport Austria 5",
+    "DAZN"
    ]
   },
   {
@@ -330,7 +337,8 @@
    "away": "SSC Neapel",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 7"
+    "Sky Sport Austria 7",
+    "DAZN"
    ]
   },
   {
@@ -365,7 +373,8 @@
    "away": "Real Madrid",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 3"
+    "Sky Sport Austria 3",
+    "DAZN"
    ]
   },
   {
@@ -377,7 +386,8 @@
    "away": "Fenerbahçe Istanbul",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 5"
+    "Sky Sport Austria 5",
+    "DAZN"
    ]
   },
   {
@@ -389,7 +399,8 @@
    "away": "AEK Athen",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 8"
+    "Sky Sport Austria 8",
+    "DAZN"
    ]
   },
   {
@@ -401,7 +412,8 @@
    "away": "Borussia Dortmund",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 4"
+    "Sky Sport Austria 4",
+    "DAZN"
    ]
   },
   {
@@ -413,7 +425,8 @@
    "away": "Paris St. Germain",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 2"
+    "Sky Sport Austria 2",
+    "DAZN"
    ]
   },
   {
@@ -425,7 +438,8 @@
    "away": "FC Porto",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 7"
+    "Sky Sport Austria 7",
+    "DAZN"
    ]
   },
   {
@@ -437,7 +451,8 @@
    "away": "VfB Stuttgart",
    "tv": [
     "Sky Sport Austria 1",
-    "Sky Sport Austria 6"
+    "Sky Sport Austria 6",
+    "DAZN"
    ]
   },
   {
@@ -2704,7 +2719,6 @@
    "away": "Dynamo Dresden",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2717,7 +2731,6 @@
    "away": "Eintracht Braunschweig",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2730,7 +2743,6 @@
    "away": "1. FC Magdeburg",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2743,7 +2755,6 @@
    "away": "Arminia Bielefeld",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2756,7 +2767,6 @@
    "away": "VfL Osnabrück",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2769,7 +2779,6 @@
    "away": "Hertha BSC",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2782,7 +2791,6 @@
    "away": "Holstein Kiel",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2795,7 +2803,6 @@
    "away": "SpVgg Greuther Fürth",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
@@ -2808,7 +2815,6 @@
    "away": "1. FC Kaiserslautern",
    "tv": [
     "Sky Sport Bundesliga",
-    "Sky X",
     "WOW"
    ]
   },
