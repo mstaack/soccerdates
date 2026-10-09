@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T11:43:59.265Z",
+ "generatedAt": "2026-10-09T11:37:20.754Z",
  "matches": [
   {
    "id": "193802",
@@ -1477,9 +1477,7 @@
    "kickoff": "2026-11-13T19:45:00.000Z",
    "home": "Slowenien",
    "away": "Schweiz",
-   "tv": [
-    "DAZN"
-   ]
+   "tv": []
   },
   {
    "id": "195252",
@@ -1696,9 +1694,7 @@
    "kickoff": "2026-11-15T19:45:00.000Z",
    "home": "Spanien",
    "away": "England",
-   "tv": [
-    "DAZN"
-   ]
+   "tv": []
   },
   {
    "id": "195222",
@@ -1795,9 +1791,7 @@
    "kickoff": "2026-11-16T19:45:00.000Z",
    "home": "Schweiz",
    "away": "Schottland",
-   "tv": [
-    "DAZN"
-   ]
+   "tv": []
   },
   {
    "id": "195232",
