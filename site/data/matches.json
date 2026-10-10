@@ -1,44 +1,6 @@
 {
- "generatedAt": "2026-10-09T11:37:20.754Z",
+ "generatedAt": "2026-10-10T10:55:00.464Z",
  "matches": [
-  {
-   "id": "193802",
-   "competition": "bl2",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-09T16:30:00.000Z",
-   "home": "1. FC Heidenheim 1846",
-   "away": "1. FC Kaiserslautern",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193808",
-   "competition": "bl2",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-09T16:30:00.000Z",
-   "home": "Eintracht Braunschweig",
-   "away": "Holstein Kiel",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "194003",
-   "competition": "bl1",
-   "round": "05. Spieltag",
-   "kickoff": "2026-10-09T18:30:00.000Z",
-   "home": "Borussia Dortmund",
-   "away": "SV Werder Bremen",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
-   ]
-  },
   {
    "id": "193803",
    "competition": "bl2",
