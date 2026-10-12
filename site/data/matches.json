@@ -1,64 +1,6 @@
 {
- "generatedAt": "2026-10-11T11:09:27.699Z",
+ "generatedAt": "2026-10-12T12:39:59.371Z",
  "matches": [
-  {
-   "id": "193801",
-   "competition": "bl2",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-11T11:30:00.000Z",
-   "home": "FC St. Pauli",
-   "away": "Karlsruher SC",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 2"
-   ]
-  },
-  {
-   "id": "193804",
-   "competition": "bl2",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-11T11:30:00.000Z",
-   "home": "Hertha BSC",
-   "away": "SpVgg Greuther Fürth",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 3"
-   ]
-  },
-  {
-   "id": "193806",
-   "competition": "bl2",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-11T11:30:00.000Z",
-   "home": "VfL Bochum",
-   "away": "Arminia Bielefeld",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 4"
-   ]
-  },
-  {
-   "id": "194010",
-   "competition": "bl1",
-   "round": "05. Spieltag",
-   "kickoff": "2026-10-11T13:30:00.000Z",
-   "home": "1. FC Köln",
-   "away": "Borussia Mönchengladbach",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "194006",
-   "competition": "bl1",
-   "round": "05. Spieltag",
-   "kickoff": "2026-10-11T15:30:00.000Z",
-   "home": "SC Freiburg",
-   "away": "FC Schalke 04",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "192150",
    "competition": "ucl",
