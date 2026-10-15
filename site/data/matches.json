@@ -1,120 +1,6 @@
 {
- "generatedAt": "2026-10-14T09:53:01.363Z",
+ "generatedAt": "2026-10-15T09:33:58.491Z",
  "matches": [
-  {
-   "id": "192159",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T16:45:00.000Z",
-   "home": "Feyenoord Rotterdam",
-   "away": "Como 1907",
-   "tv": [
-    "Sky Sport Austria 1",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192160",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T16:45:00.000Z",
-   "home": "Linzer ASK",
-   "away": "FC Liverpool",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192161",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "AS Rom",
-   "away": "Real Madrid",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 3",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192162",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "Aston Villa",
-   "away": "Fenerbahçe Istanbul",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 5",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192163",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "Schachtjor Donezk",
-   "away": "AEK Athen",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 8",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192164",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "FK Bodø/Glimt",
-   "away": "Borussia Dortmund",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 4",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192165",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "Manchester City",
-   "away": "Paris St. Germain",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 2",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192166",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "Real Betis Balompié",
-   "away": "FC Porto",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 7",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192167",
-   "competition": "ucl",
-   "round": "02. Spieltag",
-   "kickoff": "2026-10-14T19:00:00.000Z",
-   "home": "Slovan Bratislava",
-   "away": "VfB Stuttgart",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 6",
-    "DAZN"
-   ]
-  },
   {
    "id": "193815",
    "competition": "bl2",
@@ -200,8 +86,8 @@
    "home": "1. FC Union Berlin",
    "away": "Borussia Dortmund",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event",
     "DAZN"
    ]
   },
@@ -213,8 +99,7 @@
    "home": "Hamburger SV",
    "away": "VfB Stuttgart",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
+    "Sky Sport Bundesliga 2",
     "DAZN"
    ]
   },
@@ -226,8 +111,7 @@
    "home": "SV Werder Bremen",
    "away": "SC Paderborn 07",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
+    "Sky Sport Bundesliga 3",
     "DAZN"
    ]
   },
@@ -239,8 +123,7 @@
    "home": "FC Schalke 04",
    "away": "1. FSV Mainz 05",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
+    "Sky Sport Bundesliga 4",
     "DAZN"
    ]
   },
@@ -252,8 +135,7 @@
    "home": "SV Elversberg",
    "away": "FC Augsburg",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
+    "Sky Sport Bundesliga 5",
     "DAZN"
    ]
   },
