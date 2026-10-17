@@ -1,44 +1,6 @@
 {
- "generatedAt": "2026-10-16T09:26:49.546Z",
+ "generatedAt": "2026-10-17T08:57:57.649Z",
  "matches": [
-  {
-   "id": "193815",
-   "competition": "bl2",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-16T16:30:00.000Z",
-   "home": "Holstein Kiel",
-   "away": "Hertha BSC",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193818",
-   "competition": "bl2",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-16T16:30:00.000Z",
-   "home": "Energie Cottbus",
-   "away": "1. FC Nürnberg",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "194014",
-   "competition": "bl1",
-   "round": "06. Spieltag",
-   "kickoff": "2026-10-16T18:30:00.000Z",
-   "home": "Eintracht Frankfurt",
-   "away": "1. FC Köln",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
-   ]
-  },
   {
    "id": "193810",
    "competition": "bl2",
