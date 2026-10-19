@@ -1,64 +1,6 @@
 {
- "generatedAt": "2026-10-18T09:17:08.130Z",
+ "generatedAt": "2026-10-19T10:27:06.830Z",
  "matches": [
-  {
-   "id": "193813",
-   "competition": "bl2",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-18T11:30:00.000Z",
-   "home": "Karlsruher SC",
-   "away": "SV Darmstadt 98",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 2"
-   ]
-  },
-  {
-   "id": "193814",
-   "competition": "bl2",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-18T11:30:00.000Z",
-   "home": "Dynamo Dresden",
-   "away": "1. FC Magdeburg",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 3"
-   ]
-  },
-  {
-   "id": "193816",
-   "competition": "bl2",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-18T11:30:00.000Z",
-   "home": "Arminia Bielefeld",
-   "away": "VfL Osnabrück",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 4"
-   ]
-  },
-  {
-   "id": "194013",
-   "competition": "bl1",
-   "round": "06. Spieltag",
-   "kickoff": "2026-10-18T13:30:00.000Z",
-   "home": "Bayer Leverkusen",
-   "away": "SC Freiburg",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "194016",
-   "competition": "bl1",
-   "round": "06. Spieltag",
-   "kickoff": "2026-10-18T15:30:00.000Z",
-   "home": "Borussia Mönchengladbach",
-   "away": "1899 Hoffenheim",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "192168",
    "competition": "ucl",
@@ -68,6 +10,7 @@
    "away": "Slavia Prag",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -80,6 +23,7 @@
    "away": "Borussia Dortmund",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -92,6 +36,7 @@
    "away": "Slovan Bratislava",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 6",
     "DAZN"
    ]
   },
@@ -104,6 +49,7 @@
    "away": "PSV Eindhoven",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 7",
     "DAZN"
    ]
   },
@@ -116,6 +62,7 @@
    "away": "FC Villarreal",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -128,6 +75,7 @@
    "away": "AEK Athen",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 5",
     "DAZN"
    ]
   },
@@ -140,6 +88,7 @@
    "away": "FC Barcelona",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 2",
     "DAZN"
    ]
   },
@@ -152,6 +101,7 @@
    "away": "FK Bodø/Glimt",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 8",
     "DAZN"
    ]
   },
@@ -164,7 +114,7 @@
    "away": "Atletico Madrid",
    "tv": [
     "Sky Sport Austria 1",
-    "Prime Video"
+    "Sky Sport Austria 4"
    ]
   },
   {
@@ -176,6 +126,7 @@
    "away": "Manchester United",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -188,6 +139,7 @@
    "away": "Galatasaray Istanbul",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -200,6 +152,7 @@
    "away": "Viking Stavanger FK",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 7",
     "DAZN"
    ]
   },
@@ -212,6 +165,7 @@
    "away": "RC Lens",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 6",
     "DAZN"
    ]
   },
@@ -224,6 +178,7 @@
    "away": "FC Arsenal",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 2",
     "DAZN"
    ]
   },
@@ -236,6 +191,7 @@
    "away": "Schachtjor Donezk",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -248,6 +204,7 @@
    "away": "Feyenoord Rotterdam",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 5",
     "DAZN"
    ]
   },
@@ -260,6 +217,7 @@
    "away": "RB Leipzig",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
