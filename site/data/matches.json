@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T09:47:41.892Z",
+ "generatedAt": "2026-10-23T09:42:29.794Z",
  "matches": [
   {
    "id": "193820",
@@ -90,7 +90,6 @@
    "away": "SV Elversberg",
    "tv": [
     "Sky Sport Bundesliga 4",
-    "WOW",
     "DAZN"
    ]
   },
@@ -103,7 +102,6 @@
    "away": "1. FC Union Berlin",
    "tv": [
     "Sky Sport Bundesliga 2",
-    "WOW",
     "DAZN"
    ]
   },
@@ -116,7 +114,6 @@
    "away": "SV Werder Bremen",
    "tv": [
     "Sky Sport Bundesliga 3",
-    "WOW",
     "DAZN"
    ]
   },
@@ -129,7 +126,8 @@
    "away": "FC Schalke 04",
    "tv": [
     "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
+    "Sky Sport Top Event",
+    "DAZN"
    ]
   },
   {
@@ -141,7 +139,6 @@
    "away": "Hamburger SV",
    "tv": [
     "Sky Sport Bundesliga 5",
-    "WOW",
     "DAZN"
    ]
   },
@@ -578,9 +575,7 @@
    "kickoff": "2026-11-04T20:00:00.000Z",
    "home": "Borussia Dortmund",
    "away": "Real Betis Balompié",
-   "tv": [
-    "DAZN"
-   ]
+   "tv": []
   },
   {
    "id": "192198",
