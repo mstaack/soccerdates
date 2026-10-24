@@ -1,44 +1,6 @@
 {
- "generatedAt": "2026-10-23T09:42:29.794Z",
+ "generatedAt": "2026-10-24T09:15:16.198Z",
  "matches": [
-  {
-   "id": "193820",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-23T16:30:00.000Z",
-   "home": "SV Darmstadt 98",
-   "away": "FC St. Pauli",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193823",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-23T16:30:00.000Z",
-   "home": "VfL Bochum",
-   "away": "VfL Wolfsburg",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "195745",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-23T18:30:00.000Z",
-   "home": "VfB Stuttgart",
-   "away": "Borussia Mönchengladbach",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
-   ]
-  },
   {
    "id": "193819",
    "competition": "bl2",
