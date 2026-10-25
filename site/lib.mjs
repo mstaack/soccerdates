@@ -3,6 +3,9 @@ export const COMPETITIONS = [
   { key: 'bl2', short: 'BL2', name: '2. Bundesliga' },
   { key: 'ucl', short: 'CL', name: 'Champions League' },
   { key: 'nl', short: 'NL', name: 'Nations League' },
+  { key: 'pokal', short: 'Pokal', name: 'DFB-Pokal' },
+  { key: 'pl', short: 'PL', name: 'Premier League' },
+  { key: 'liga', short: 'Liga', name: 'La Liga' },
 ];
 
 const TZ = 'Europe/Berlin';

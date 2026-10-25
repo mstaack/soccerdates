@@ -62,7 +62,7 @@ test('channelKind groups channels for colouring', () => {
 });
 
 test('competition list is complete', () => {
-  assert.deepEqual(COMPETITIONS.map((c) => c.key), ['bl1', 'bl2', 'ucl', 'nl']);
+  assert.deepEqual(COMPETITIONS.map((c) => c.key), ['bl1', 'bl2', 'ucl', 'nl', 'pokal', 'pl', 'liga']);
 });
 
 test('matches with an unknown kickoff time show a placeholder', () => {

@@ -98,3 +98,13 @@ test('a game missing its kickoff time throws', () => {
     <div class="team-home"><a>A</a></div><div class="team-guest"><a>B</a></div></div>`;
   assert.throws(() => parsePage(html, 'bl1'), /time/i);
 });
+
+test('DFB-Pokal, Premier League and La Liga fixtures parse', () => {
+  for (const [file, key] of [['dfb-pokal', 'pokal'], ['premier-league', 'pl'], ['la-liga', 'liga']]) {
+    const ms = parsePage(fx(file), key);
+    assert.ok(ms.length > 0, `${key} has matches`);
+    assert.ok(ms.every((m) => m.competition === key && m.home && m.away && m.kickoff));
+  }
+  const pl = parsePage(fx('premier-league'), 'pl');
+  assert.ok(pl.some((m) => m.tv.includes('Sky Sport Premier League')));
+});

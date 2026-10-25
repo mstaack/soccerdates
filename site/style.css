@@ -1,7 +1,7 @@
 :root {
   --bg: #f4f6f8; --card: #ffffff; --text: #111827; --muted: #6b7280; --line: #e5e7eb;
   --accent: #0a7d3b; --accent-text: #ffffff; --chip: #e8ebef; --shadow: 0 1px 2px rgb(16 24 40 / .06);
-  --bl1: #d20515; --bl2: #e8730c; --ucl: #1d4ed8; --nl: #7c3aed;
+  --bl1: #d20515; --bl2: #e8730c; --ucl: #1d4ed8; --nl: #7c3aed; --pokal: #b45309; --pl: #3d195b; --liga: #e11d48;
   --sky-bg: #e6efff; --sky-fg: #0b4aa6;
   --dazn-bg: #fff3bf; --dazn-fg: #6b5400;
   --prime-bg: #dcf5fa; --prime-fg: #0a6277;
@@ -12,7 +12,7 @@
   :root {
     --bg: #0d1117; --card: #161b22; --text: #e8ecf1; --muted: #8b95a5; --line: #262d38;
     --accent: #3ccf7a; --accent-text: #0d1117; --chip: #212833; --shadow: none;
-    --bl1: #ff4d5e; --bl2: #ff9a3d; --ucl: #5b8dff; --nl: #a78bfa;
+    --bl1: #ff4d5e; --bl2: #ff9a3d; --ucl: #5b8dff; --nl: #a78bfa; --pokal: #fbbf24; --pl: #c084fc; --liga: #fb7185;
     --sky-bg: #132a52; --sky-fg: #93bcff;
     --dazn-bg: #3a3310; --dazn-fg: #ffd84d;
     --prime-bg: #0f3039; --prime-fg: #74d8ee;
@@ -25,11 +25,11 @@
 html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0; background: var(--bg); color: var(--text);
-  font: 16px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font: 16px/1.4 -apple-system, BlinkMacSystemFont, system-ui, "Segoe UI", Roboto, sans-serif;
   padding-bottom: env(safe-area-inset-bottom);
 }
 header, main, footer {
-  max-width: 640px; margin: 0 auto;
+  max-width: 720px; margin: 0 auto;
   padding-left: max(16px, env(safe-area-inset-left)); padding-right: max(16px, env(safe-area-inset-right));
 }
 
@@ -46,7 +46,7 @@ h1 { margin: 0; font-size: 1.3rem; letter-spacing: -.01em; white-space: nowrap; 
 
 #chips {
   display: flex; gap: 8px; margin: 10px -16px 0; padding: 2px 16px; overflow-x: auto;
-  scrollbar-width: none; scroll-snap-type: x proximity;
+  scrollbar-width: none; scroll-snap-type: x proximity; scroll-padding-inline: 16px;
 }
 #chips::-webkit-scrollbar { display: none; }
 .chip {
@@ -78,6 +78,9 @@ h1 { margin: 0; font-size: 1.3rem; letter-spacing: -.01em; white-space: nowrap; 
 .card[data-comp="bl2"] { --stripe: var(--bl2); }
 .card[data-comp="ucl"] { --stripe: var(--ucl); }
 .card[data-comp="nl"] { --stripe: var(--nl); }
+.card[data-comp="pokal"] { --stripe: var(--pokal); }
+.card[data-comp="pl"] { --stripe: var(--pl); }
+.card[data-comp="liga"] { --stripe: var(--liga); }
 
 .time { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; }
 .clock { font-size: 1.2rem; font-weight: 800; font-variant-numeric: tabular-nums; letter-spacing: -.01em; line-height: 1.2; }
@@ -105,3 +108,19 @@ h1 { margin: 0; font-size: 1.3rem; letter-spacing: -.01em; white-space: nowrap; 
 
 .empty { margin: 48px 0; text-align: center; color: var(--muted); }
 footer { padding-top: 20px; padding-bottom: 36px; color: var(--muted); font-size: .72rem; text-align: center; }
+
+/* iOS: no tap flash, no sticky hover, smooth momentum scroll in chip bar */
+.chip, .card { -webkit-tap-highlight-color: transparent; }
+#chips { -webkit-overflow-scrolling: touch; }
+@media (hover: hover) { .chip:not([aria-pressed="true"]):hover { background: color-mix(in srgb, var(--chip) 70%, var(--text) 12%); } }
+.chip:active { transform: scale(.97); }
+
+/* desktop: chips wrap instead of scrolling, cards get breathing room */
+@media (min-width: 720px) {
+  header { max-width: 860px; }
+  main, footer { max-width: 860px; }
+  #chips { flex-wrap: wrap; overflow: visible; margin: 12px 0 0; padding: 0; }
+  .card { grid-template-columns: 72px 1fr; padding: 16px 18px 16px 20px; border-radius: 16px; transition: transform .15s, box-shadow .15s; }
+  .card:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgb(16 24 40 / .08); }
+  h1 { font-size: 1.5rem; }
+}

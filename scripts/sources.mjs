@@ -4,4 +4,7 @@ export const SOURCES = {
   bl2: `${BASE}/2-bundesliga`,
   ucl: `${BASE}/uefa-champions-league`,
   nl: `${BASE}/nations-league`,
+  pokal: `${BASE}/dfb-pokal`,
+  pl: `${BASE}/premier-league-england`,
+  liga: `${BASE}/la-liga-spanien`,
 };

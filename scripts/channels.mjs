@@ -7,6 +7,8 @@ const RULES = [
   [/^Sky Sport Austria/i, 'Sky Sport Austria'],
   [/^Sky X\b/i, 'Sky X'],
   [/^Sky Sport Top Event/i, 'Sky Sport Top Event'],
+  [/^Sky Sport Premier League/i, 'Sky Sport Premier League'],
+  [/^Sky Sport Mix/i, 'Sky Sport Mix'],
   [/^Sky Sport( \d+)?( HD| UHD)?$/i, 'Sky Sport'],
   [/^WOW$/i, 'WOW'],
   [/^DAZN\b/i, 'DAZN'],
@@ -24,7 +26,7 @@ const RULES = [
 ];
 
 const ORDER = ['ARD', 'ZDF', 'ORF', 'ServusTV', 'RTL', 'Sat.1', 'NITRO', 'Sport1', 'Joyn',
-  'Sky Sport Bundesliga', 'Sky Sport Top Event', 'Sky Sport', 'Sky Sport Austria', 'Sky X', 'WOW',
+  'Sky Sport Bundesliga', 'Sky Sport Top Event', 'Sky Sport Premier League', 'Sky Sport Mix', 'Sky Sport', 'Sky Sport Austria', 'Sky X', 'WOW',
   'DAZN', 'Prime Video', 'MagentaSport'];
 
 // Sky feeds keep their number ("Sky Sport Bundesliga 3"); HD/UHD variants merge into the plain feed.
@@ -45,7 +47,7 @@ export function classify({ name, icons }) {
 }
 
 // Known German-market names we deliberately ignore (not worth logging).
-const IGNORED = /^Sky (Go|Showcase)\b/i;
+const IGNORED = /^Sky (Go|Showcase)\b|^Italia 1\b|\(Türkei\)|^WOW \(Austria\)/i;
 
 export function unknownChannels(entries) {
   const names = entries

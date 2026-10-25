@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T09:32:00.438Z",
+ "generatedAt": "2026-10-25T21:05:03.253Z",
  "matches": [
   {
    "id": "193824",
@@ -38,6 +38,66 @@
    ]
   },
   {
+   "id": "196691",
+   "competition": "liga",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-25T13:00:00.000Z",
+   "home": "Athletic Bilbao",
+   "away": "FC Getafe",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193495",
+   "competition": "pl",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-25T14:00:00.000Z",
+   "home": "Crystal Palace",
+   "away": "Newcastle United",
+   "tv": [
+    "Sky Sport",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193496",
+   "competition": "pl",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-25T14:00:00.000Z",
+   "home": "Hull City AFC",
+   "away": "Brentford FC",
+   "tv": [
+    "Sky Sport",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193498",
+   "competition": "pl",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-25T14:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "Brighton and Hove Albion",
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport",
+    "Sky Sport Austria 3"
+   ]
+  },
+  {
+   "id": "193499",
+   "competition": "pl",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-25T14:00:00.000Z",
+   "home": "Manchester United",
+   "away": "AFC Bournemouth",
+   "tv": [
+    "Sky Sport Mix",
+    "WOW"
+   ]
+  },
+  {
    "id": "195746",
    "competition": "bl1",
    "round": "07. Spieltag",
@@ -49,6 +109,30 @@
    ]
   },
   {
+   "id": "196693",
+   "competition": "liga",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-25T15:15:00.000Z",
+   "home": "R.C. Celta de Vigo",
+   "away": "Real Betis Balompié",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193500",
+   "competition": "pl",
+   "round": "08. Spieltag",
+   "kickoff": "2026-10-25T16:30:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "Leeds United",
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport",
+    "Sky Sport Austria 3"
+   ]
+  },
+  {
    "id": "195747",
    "competition": "bl1",
    "round": "07. Spieltag",
@@ -57,6 +141,247 @@
    "away": "FC Bayern München",
    "tv": [
     "DAZN"
+   ]
+  },
+  {
+   "id": "196697",
+   "competition": "liga",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-25T17:30:00.000Z",
+   "home": "Real Sociedad",
+   "away": "UD Levante",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "196694",
+   "competition": "liga",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-25T20:00:00.000Z",
+   "home": "FC Barcelona",
+   "away": "Real Madrid",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "196698",
+   "competition": "liga",
+   "round": "10. Spieltag",
+   "kickoff": "2026-10-26T20:00:00.000Z",
+   "home": "FC Sevilla",
+   "away": "CA Osasuna",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193455",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T17:00:00.000Z",
+   "home": "SG Sonnenhof Großaspach",
+   "away": "FC Augsburg",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193457",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T17:00:00.000Z",
+   "home": "Rot-Weiss Essen",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193461",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T17:00:00.000Z",
+   "home": "VfL Bochum",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193462",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T17:00:00.000Z",
+   "home": "Hamburger SV",
+   "away": "Eintracht Frankfurt",
+   "tv": [
+    "RTL",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193458",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T19:45:00.000Z",
+   "home": "1. FC Köln",
+   "away": "1. FC Union Berlin",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193460",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T19:45:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "SV Werder Bremen",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193463",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T19:45:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "Karlsruher SC",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193469",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-27T19:45:00.000Z",
+   "home": "SV Elversberg",
+   "away": "SV Darmstadt 98",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193456",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T17:00:00.000Z",
+   "home": "SSV Jeddeloh II",
+   "away": "Hertha BSC",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193459",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T17:00:00.000Z",
+   "home": "Dynamo Dresden",
+   "away": "FC Schalke 04",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193467",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T17:00:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193468",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T17:00:00.000Z",
+   "home": "SC Freiburg",
+   "away": "VfL Wolfsburg",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193464",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T19:45:00.000Z",
+   "home": "Holstein Kiel",
+   "away": "1899 Hoffenheim",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193465",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T19:45:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "1. FC Nürnberg",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193466",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T19:45:00.000Z",
+   "home": "Hannover 96",
+   "away": "1. FC Kaiserslautern",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Mix",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "193470",
+   "competition": "pokal",
+   "round": "2. Runde",
+   "kickoff": "2026-10-28T19:45:00.000Z",
+   "home": "FC Bayern München",
+   "away": "1. FC Magdeburg",
+   "tv": [
+    "ARD",
+    "Sky Sport Mix",
+    "Sky Sport"
    ]
   },
   {
@@ -95,6 +420,17 @@
    "tv": [
     "Sky Sport Bundesliga 1",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "196709",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-10-30T20:00:00.000Z",
+   "home": "FC Villarreal",
+   "away": "Espanyol Barcelona",
+   "tv": [
+    "DAZN"
    ]
   },
   {
@@ -137,6 +473,29 @@
     "Sky Sport Bundesliga 5",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193504",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T12:30:00.000Z",
+   "home": "FC Chelsea",
+   "away": "Manchester United",
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport Austria 1"
+   ]
+  },
+  {
+   "id": "196706",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-10-31T13:00:00.000Z",
+   "home": "UD Levante",
+   "away": "Atletico Madrid",
+   "tv": [
+    "DAZN"
    ]
   },
   {
@@ -204,6 +563,90 @@
    ]
   },
   {
+   "id": "193501",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T15:00:00.000Z",
+   "home": "AFC Bournemouth",
+   "away": "Leeds United",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193503",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T15:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "Nottingham Forest",
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport Mix"
+   ]
+  },
+  {
+   "id": "193505",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T15:00:00.000Z",
+   "home": "Coventry City",
+   "away": "AFC Sunderland",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193506",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T15:00:00.000Z",
+   "home": "Hull City AFC",
+   "away": "Ipswich Town",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193508",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T15:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Brighton and Hove Albion",
+   "tv": [
+    "RTL",
+    "Sky Sport Premier League",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "196708",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-10-31T15:15:00.000Z",
+   "home": "Rayo Vallecano",
+   "away": "R.C. Celta de Vigo",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193510",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T17:30:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "Crystal Palace",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
    "id": "196111",
    "competition": "bl1",
    "round": "08. Spieltag",
@@ -213,6 +656,17 @@
    "tv": [
     "Sky Sport Bundesliga 1",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "196701",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-10-31T17:30:00.000Z",
+   "home": "Real Betis Balompié",
+   "away": "FC Malaga",
+   "tv": [
+    "DAZN"
    ]
   },
   {
@@ -226,6 +680,29 @@
     "NITRO",
     "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193502",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-10-31T20:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "FC Fulham",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
+   "id": "196704",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-10-31T20:00:00.000Z",
+   "home": "FC Barcelona",
+   "away": "Deportivo Alaves",
+   "tv": [
+    "DAZN"
    ]
   },
   {
@@ -268,6 +745,17 @@
    ]
   },
   {
+   "id": "196705",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-01T13:00:00.000Z",
+   "home": "FC Getafe",
+   "away": "FC Sevilla",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
    "id": "196115",
    "competition": "bl1",
    "round": "08. Spieltag",
@@ -279,12 +767,82 @@
    ]
   },
   {
+   "id": "196707",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-01T15:15:00.000Z",
+   "home": "Racing Santander",
+   "away": "Real Madrid",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193507",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-11-01T16:30:00.000Z",
+   "home": "FC Liverpool",
+   "away": "FC Arsenal",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Premier League",
+    "Sky Sport Austria 2"
+   ]
+  },
+  {
    "id": "196113",
    "competition": "bl1",
    "round": "08. Spieltag",
    "kickoff": "2026-11-01T16:30:00.000Z",
    "home": "Eintracht Frankfurt",
    "away": "Hamburger SV",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "196703",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-01T17:30:00.000Z",
+   "home": "Elche C.F.",
+   "away": "FC Valencia",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "196700",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-01T20:00:00.000Z",
+   "home": "Athletic Bilbao",
+   "away": "Real Sociedad",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "193509",
+   "competition": "pl",
+   "round": "09. Spieltag",
+   "kickoff": "2026-11-02T20:00:00.000Z",
+   "home": "Newcastle United",
+   "away": "FC Everton",
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Premier League",
+    "Sky Sport Austria 1"
+   ]
+  },
+  {
+   "id": "196702",
+   "competition": "liga",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-02T20:00:00.000Z",
+   "home": "Deportivo La Coruña",
+   "away": "CA Osasuna",
    "tv": [
     "DAZN"
    ]
@@ -522,6 +1080,43 @@
    ]
   },
   {
+   "id": "193633",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-06T20:00:00.000Z",
+   "home": "FC Everton",
+   "away": "Coventry City",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193630",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-07T11:30:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Hull City AFC",
+   "tv": [
+    "RTL",
+    "Sky Sport Premier League",
+    "WOW"
+   ]
+  },
+  {
+   "id": "193634",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-07T11:30:00.000Z",
+   "home": "FC Fulham",
+   "away": "Newcastle United",
+   "tv": [
+    "Sky Sport",
+    "WOW"
+   ]
+  },
+  {
    "id": "193839",
    "competition": "bl2",
    "round": "11. Spieltag",
@@ -558,6 +1153,18 @@
     "Sky Sport Bundesliga 2",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193636",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-07T12:30:00.000Z",
+   "home": "Leeds United",
+   "away": "Tottenham Hotspur",
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport Austria 1"
    ]
   },
   {
@@ -610,6 +1217,18 @@
     "Sky Sport Bundesliga",
     "WOW",
     "DAZN"
+   ]
+  },
+  {
+   "id": "193638",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-07T17:30:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "Manchester City",
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
    ]
   },
   {
@@ -674,6 +1293,42 @@
    ]
   },
   {
+   "id": "193631",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-08T14:00:00.000Z",
+   "home": "Brighton and Hove Albion",
+   "away": "Brentford FC",
+   "tv": []
+  },
+  {
+   "id": "193632",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-08T14:00:00.000Z",
+   "home": "Crystal Palace",
+   "away": "FC Liverpool",
+   "tv": []
+  },
+  {
+   "id": "193635",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-08T14:00:00.000Z",
+   "home": "Ipswich Town",
+   "away": "AFC Bournemouth",
+   "tv": []
+  },
+  {
+   "id": "193639",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-08T14:00:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "FC Chelsea",
+   "tv": []
+  },
+  {
    "id": "196127",
    "competition": "bl1",
    "round": "09. Spieltag",
@@ -683,6 +1338,15 @@
    "tv": [
     "DAZN"
    ]
+  },
+  {
+   "id": "193637",
+   "competition": "pl",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-08T16:30:00.000Z",
+   "home": "Manchester United",
+   "away": "Aston Villa",
+   "tv": []
   },
   {
    "id": "196124",
@@ -1272,6 +1936,98 @@
    ]
   },
   {
+   "id": "193640",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "AFC Bournemouth",
+   "away": "Nottingham Forest",
+   "tv": []
+  },
+  {
+   "id": "193641",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "AFC Sunderland",
+   "tv": []
+  },
+  {
+   "id": "193642",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "FC Everton",
+   "tv": []
+  },
+  {
+   "id": "193643",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "FC Chelsea",
+   "away": "Leeds United",
+   "tv": []
+  },
+  {
+   "id": "193644",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Coventry City",
+   "away": "Crystal Palace",
+   "tv": []
+  },
+  {
+   "id": "193645",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Hull City AFC",
+   "away": "Brighton and Hove Albion",
+   "tv": []
+  },
+  {
+   "id": "193646",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "Manchester United",
+   "tv": []
+  },
+  {
+   "id": "193647",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Manchester City",
+   "away": "FC Fulham",
+   "tv": [
+    "RTL"
+   ]
+  },
+  {
+   "id": "193648",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Newcastle United",
+   "away": "FC Arsenal",
+   "tv": []
+  },
+  {
+   "id": "193649",
+   "competition": "pl",
+   "round": "11. Spieltag",
+   "kickoff": "2026-11-21T15:00:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "Ipswich Town",
+   "tv": []
+  },
+  {
    "id": "193847",
    "competition": "bl2",
    "round": "12. Spieltag",
@@ -1483,6 +2239,98 @@
    ]
   },
   {
+   "id": "193650",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Manchester City",
+   "tv": []
+  },
+  {
+   "id": "193651",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Brighton and Hove Albion",
+   "away": "Newcastle United",
+   "tv": []
+  },
+  {
+   "id": "193652",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Crystal Palace",
+   "away": "Hull City AFC",
+   "tv": []
+  },
+  {
+   "id": "193653",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "FC Everton",
+   "away": "FC Liverpool",
+   "tv": []
+  },
+  {
+   "id": "193654",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "FC Fulham",
+   "away": "AFC Bournemouth",
+   "tv": []
+  },
+  {
+   "id": "193655",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Ipswich Town",
+   "away": "Aston Villa",
+   "tv": []
+  },
+  {
+   "id": "193656",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Leeds United",
+   "away": "Coventry City",
+   "tv": []
+  },
+  {
+   "id": "193657",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Manchester United",
+   "away": "Brentford FC",
+   "tv": [
+    "RTL"
+   ]
+  },
+  {
+   "id": "193658",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "FC Chelsea",
+   "tv": []
+  },
+  {
+   "id": "193659",
+   "competition": "pl",
+   "round": "12. Spieltag",
+   "kickoff": "2026-11-28T15:00:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "Tottenham Hotspur",
+   "tv": []
+  },
+  {
    "id": "193863",
    "competition": "bl2",
    "round": "13. Spieltag",
@@ -1494,6 +2342,186 @@
     "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
    ]
+  },
+  {
+   "id": "193660",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "AFC Bournemouth",
+   "away": "Brighton and Hove Albion",
+   "tv": []
+  },
+  {
+   "id": "193661",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "FC Everton",
+   "tv": []
+  },
+  {
+   "id": "193662",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "FC Arsenal",
+   "tv": []
+  },
+  {
+   "id": "193663",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "FC Chelsea",
+   "away": "Crystal Palace",
+   "tv": []
+  },
+  {
+   "id": "193664",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Coventry City",
+   "away": "Ipswich Town",
+   "tv": []
+  },
+  {
+   "id": "193665",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Hull City AFC",
+   "away": "Nottingham Forest",
+   "tv": []
+  },
+  {
+   "id": "193666",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "AFC Sunderland",
+   "tv": []
+  },
+  {
+   "id": "193667",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Leeds United",
+   "tv": []
+  },
+  {
+   "id": "193668",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Newcastle United",
+   "away": "Manchester United",
+   "tv": []
+  },
+  {
+   "id": "193669",
+   "competition": "pl",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-02T20:00:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "FC Fulham",
+   "tv": []
+  },
+  {
+   "id": "193670",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "AFC Bournemouth",
+   "away": "Hull City AFC",
+   "tv": []
+  },
+  {
+   "id": "193671",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Aston Villa",
+   "away": "Crystal Palace",
+   "tv": []
+  },
+  {
+   "id": "193672",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "Manchester City",
+   "tv": []
+  },
+  {
+   "id": "193673",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "FC Chelsea",
+   "away": "FC Liverpool",
+   "tv": []
+  },
+  {
+   "id": "193674",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "FC Everton",
+   "away": "FC Fulham",
+   "tv": []
+  },
+  {
+   "id": "193675",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Leeds United",
+   "away": "Ipswich Town",
+   "tv": []
+  },
+  {
+   "id": "193676",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Manchester United",
+   "away": "Coventry City",
+   "tv": []
+  },
+  {
+   "id": "193677",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Newcastle United",
+   "away": "AFC Sunderland",
+   "tv": []
+  },
+  {
+   "id": "193678",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "Brighton and Hove Albion",
+   "tv": []
+  },
+  {
+   "id": "193679",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T15:00:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "FC Arsenal",
+   "tv": []
   },
   {
    "id": "192222",
@@ -1692,6 +2720,501 @@
    "tv": [
     "DAZN"
    ]
+  },
+  {
+   "id": "193680",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "AFC Bournemouth",
+   "tv": []
+  },
+  {
+   "id": "193681",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "Brighton and Hove Albion",
+   "away": "FC Everton",
+   "tv": []
+  },
+  {
+   "id": "193682",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "Coventry City",
+   "away": "Aston Villa",
+   "tv": []
+  },
+  {
+   "id": "193683",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "Crystal Palace",
+   "away": "Manchester United",
+   "tv": []
+  },
+  {
+   "id": "193684",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "FC Fulham",
+   "away": "Brentford FC",
+   "tv": []
+  },
+  {
+   "id": "193685",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "Hull City AFC",
+   "away": "Tottenham Hotspur",
+   "tv": []
+  },
+  {
+   "id": "193686",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "Ipswich Town",
+   "away": "Newcastle United",
+   "tv": []
+  },
+  {
+   "id": "193687",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "Leeds United",
+   "tv": []
+  },
+  {
+   "id": "193688",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "Manchester City",
+   "away": "FC Chelsea",
+   "tv": []
+  },
+  {
+   "id": "193689",
+   "competition": "pl",
+   "round": "15. Spieltag",
+   "kickoff": "2026-12-12T15:00:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "Nottingham Forest",
+   "tv": []
+  },
+  {
+   "id": "193690",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "AFC Bournemouth",
+   "away": "Coventry City",
+   "tv": []
+  },
+  {
+   "id": "193691",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Manchester United",
+   "tv": []
+  },
+  {
+   "id": "193692",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "Newcastle United",
+   "tv": []
+  },
+  {
+   "id": "193693",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "Brighton and Hove Albion",
+   "away": "Ipswich Town",
+   "tv": []
+  },
+  {
+   "id": "193694",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "FC Chelsea",
+   "away": "Aston Villa",
+   "tv": []
+  },
+  {
+   "id": "193695",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "Leeds United",
+   "away": "FC Fulham",
+   "tv": []
+  },
+  {
+   "id": "193696",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "Tottenham Hotspur",
+   "tv": []
+  },
+  {
+   "id": "193697",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "Manchester City",
+   "away": "Hull City AFC",
+   "tv": []
+  },
+  {
+   "id": "193698",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "FC Everton",
+   "tv": []
+  },
+  {
+   "id": "193699",
+   "competition": "pl",
+   "round": "16. Spieltag",
+   "kickoff": "2026-12-19T15:00:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "Crystal Palace",
+   "tv": []
+  },
+  {
+   "id": "193595",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T12:30:00.000Z",
+   "home": "Aston Villa",
+   "away": "Leeds United",
+   "tv": []
+  },
+  {
+   "id": "193598",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T15:00:00.000Z",
+   "home": "FC Everton",
+   "away": "AFC Sunderland",
+   "tv": []
+  },
+  {
+   "id": "193599",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T15:00:00.000Z",
+   "home": "FC Fulham",
+   "away": "Brighton and Hove Albion",
+   "tv": []
+  },
+  {
+   "id": "193601",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T15:00:00.000Z",
+   "home": "Ipswich Town",
+   "away": "Brentford FC",
+   "tv": []
+  },
+  {
+   "id": "193604",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T15:00:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "AFC Bournemouth",
+   "tv": []
+  },
+  {
+   "id": "193600",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T17:30:00.000Z",
+   "home": "Hull City AFC",
+   "away": "FC Liverpool",
+   "tv": []
+  },
+  {
+   "id": "193603",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-26T20:00:00.000Z",
+   "home": "Newcastle United",
+   "away": "Manchester City",
+   "tv": []
+  },
+  {
+   "id": "193596",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-27T14:00:00.000Z",
+   "home": "Coventry City",
+   "away": "FC Chelsea",
+   "tv": []
+  },
+  {
+   "id": "193602",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-27T16:30:00.000Z",
+   "home": "Manchester United",
+   "away": "Nottingham Forest",
+   "tv": []
+  },
+  {
+   "id": "193597",
+   "competition": "pl",
+   "round": "17. Spieltag",
+   "kickoff": "2026-12-27T19:00:00.000Z",
+   "home": "Crystal Palace",
+   "away": "FC Arsenal",
+   "tv": []
+  },
+  {
+   "id": "193610",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-29T19:30:00.000Z",
+   "home": "Hull City AFC",
+   "away": "Leeds United",
+   "tv": []
+  },
+  {
+   "id": "193614",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-29T19:30:00.000Z",
+   "home": "Tottenham Hotspur",
+   "away": "Brighton and Hove Albion",
+   "tv": []
+  },
+  {
+   "id": "193608",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-29T20:15:00.000Z",
+   "home": "FC Everton",
+   "away": "Manchester City",
+   "tv": []
+  },
+  {
+   "id": "193606",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T19:30:00.000Z",
+   "home": "Coventry City",
+   "away": "Brentford FC",
+   "tv": []
+  },
+  {
+   "id": "193607",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T19:30:00.000Z",
+   "home": "Crystal Palace",
+   "away": "AFC Bournemouth",
+   "tv": []
+  },
+  {
+   "id": "193609",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T19:30:00.000Z",
+   "home": "FC Fulham",
+   "away": "FC Arsenal",
+   "tv": []
+  },
+  {
+   "id": "193612",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T19:30:00.000Z",
+   "home": "Manchester United",
+   "away": "AFC Sunderland",
+   "tv": []
+  },
+  {
+   "id": "193613",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T19:30:00.000Z",
+   "home": "Newcastle United",
+   "away": "Nottingham Forest",
+   "tv": []
+  },
+  {
+   "id": "193605",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T20:15:00.000Z",
+   "home": "Aston Villa",
+   "away": "FC Liverpool",
+   "tv": []
+  },
+  {
+   "id": "193611",
+   "competition": "pl",
+   "round": "18. Spieltag",
+   "kickoff": "2026-12-30T20:15:00.000Z",
+   "home": "Ipswich Town",
+   "away": "FC Chelsea",
+   "tv": []
+  },
+  {
+   "id": "193620",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-01T20:00:00.000Z",
+   "home": "Leeds United",
+   "away": "FC Everton",
+   "tv": []
+  },
+  {
+   "id": "193618",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T12:30:00.000Z",
+   "home": "Brighton and Hove Albion",
+   "away": "Manchester United",
+   "tv": []
+  },
+  {
+   "id": "193616",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T15:00:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Ipswich Town",
+   "tv": []
+  },
+  {
+   "id": "193617",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T15:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "Crystal Palace",
+   "tv": []
+  },
+  {
+   "id": "193621",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T15:00:00.000Z",
+   "home": "FC Liverpool",
+   "away": "Coventry City",
+   "tv": []
+  },
+  {
+   "id": "193623",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T15:00:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "FC Fulham",
+   "tv": []
+  },
+  {
+   "id": "193624",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T15:00:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "Hull City AFC",
+   "tv": []
+  },
+  {
+   "id": "193615",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-02T17:30:00.000Z",
+   "home": "AFC Bournemouth",
+   "away": "Aston Villa",
+   "tv": []
+  },
+  {
+   "id": "193619",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-03T14:00:00.000Z",
+   "home": "FC Chelsea",
+   "away": "Newcastle United",
+   "tv": []
+  },
+  {
+   "id": "193622",
+   "competition": "pl",
+   "round": "19. Spieltag",
+   "kickoff": "2027-01-03T16:30:00.000Z",
+   "home": "Manchester City",
+   "away": "Tottenham Hotspur",
+   "tv": []
+  },
+  {
+   "id": "193625",
+   "competition": "pl",
+   "round": "20. Spieltag",
+   "kickoff": "2027-01-05T19:30:00.000Z",
+   "home": "FC Arsenal",
+   "away": "Brentford FC",
+   "tv": []
+  },
+  {
+   "id": "193626",
+   "competition": "pl",
+   "round": "20. Spieltag",
+   "kickoff": "2027-01-05T19:30:00.000Z",
+   "home": "Brighton and Hove Albion",
+   "away": "AFC Bournemouth",
+   "tv": []
+  },
+  {
+   "id": "193627",
+   "competition": "pl",
+   "round": "20. Spieltag",
+   "kickoff": "2027-01-05T19:30:00.000Z",
+   "home": "FC Everton",
+   "away": "Aston Villa",
+   "tv": []
+  },
+  {
+   "id": "193628",
+   "competition": "pl",
+   "round": "20. Spieltag",
+   "kickoff": "2027-01-05T19:30:00.000Z",
+   "home": "Nottingham Forest",
+   "away": "Hull City AFC",
+   "tv": []
+  },
+  {
+   "id": "193629",
+   "competition": "pl",
+   "round": "20. Spieltag",
+   "kickoff": "2027-01-05T20:15:00.000Z",
+   "home": "AFC Sunderland",
+   "away": "FC Liverpool",
+   "tv": []
   },
   {
    "id": "192240",
@@ -2176,6 +3699,19 @@
    "away": "1. FC Kaiserslautern",
    "tv": [
     "Sky Sport Bundesliga",
+    "WOW"
+   ]
+  },
+  {
+   "id": "188475",
+   "competition": "pokal",
+   "round": "Finale",
+   "kickoff": "2027-05-29T18:00:00.000Z",
+   "home": "N.N.",
+   "away": "N.N.",
+   "tv": [
+    "RTL",
+    "Sky Sport Top Event",
     "WOW"
    ]
   },

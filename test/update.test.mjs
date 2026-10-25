@@ -6,21 +6,21 @@ import { mergeMatches, buildData, sameMatches } from '../scripts/update.mjs';
 
 const fx = (n) => readFileSync(new URL(`./fixtures/${n}.html`, import.meta.url), 'utf8');
 const byUrl = Object.fromEntries(Object.entries(SOURCES).map(([k, u]) =>
-  [u, fx({ bl1: 'bundesliga', bl2: '2-bundesliga', ucl: 'uefa-champions-league', nl: 'nations-league' }[k])]));
+  [u, fx({ bl1: 'bundesliga', bl2: '2-bundesliga', ucl: 'uefa-champions-league', nl: 'nations-league', pokal: 'dfb-pokal', pl: 'premier-league', liga: 'la-liga' }[k])]));
 const NOW = '2026-10-04T05:00:00.000Z';
 const m = (id, competition, kickoff) => ({ id, competition, round: '', kickoff, home: 'H', away: 'A', tv: [] });
 
 test('mergeMatches replaces fresh competitions, keeps previous for null, sorts', () => {
   const prev = [m('1', 'bl1', '2026-10-10T10:00:00Z'), m('2', 'ucl', '2026-10-09T10:00:00Z')];
-  const out = mergeMatches(prev, { bl1: [m('3', 'bl1', '2026-10-11T10:00:00Z')], ucl: null, bl2: [], nl: [] });
+  const out = mergeMatches(prev, { bl1: [m('3', 'bl1', '2026-10-11T10:00:00Z')], ucl: null, bl2: [], nl: [], pokal: [], pl: [], liga: [] });
   assert.deepEqual(out.map((x) => x.id), ['2', '3']);
 });
 
-test('buildData happy path covers all four competitions', async () => {
+test('buildData happy path covers all seven competitions', async () => {
   const { data, failed } = await buildData({ fetchHtml: async (u) => byUrl[u], previous: [], now: NOW, log: () => {} });
   assert.deepEqual(failed, []);
   assert.equal(data.generatedAt, NOW);
-  assert.equal(data.matches.length, 27 + 42 + 127 + 78);
+  assert.equal(data.matches.length, 27 + 42 + 127 + 78 + 152);
   assert.deepEqual(data.matches.map((x) => x.kickoff), [...data.matches.map((x) => x.kickoff)].sort());
 });
 
