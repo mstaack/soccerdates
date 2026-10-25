@@ -1,133 +1,6 @@
 {
- "generatedAt": "2026-10-24T09:15:16.198Z",
+ "generatedAt": "2026-10-25T09:32:00.438Z",
  "matches": [
-  {
-   "id": "193819",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-24T11:00:00.000Z",
-   "home": "1. FC Heidenheim 1846",
-   "away": "Energie Cottbus",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Bundesliga 7",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193821",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-24T11:00:00.000Z",
-   "home": "Hertha BSC",
-   "away": "Arminia Bielefeld",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Bundesliga 7",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193825",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-24T11:00:00.000Z",
-   "home": "1. FC Magdeburg",
-   "away": "Karlsruher SC",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 5",
-    "Sky Sport Bundesliga 7",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "195744",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-24T13:30:00.000Z",
-   "home": "RB Leipzig",
-   "away": "SV Elversberg",
-   "tv": [
-    "Sky Sport Bundesliga 4",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195748",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-24T13:30:00.000Z",
-   "home": "FC Augsburg",
-   "away": "1. FC Union Berlin",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195749",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-24T13:30:00.000Z",
-   "home": "1. FSV Mainz 05",
-   "away": "SV Werder Bremen",
-   "tv": [
-    "Sky Sport Bundesliga 3",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195750",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-24T13:30:00.000Z",
-   "home": "1. FC Köln",
-   "away": "FC Schalke 04",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195751",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-24T13:30:00.000Z",
-   "home": "SC Paderborn 07",
-   "away": "Hamburger SV",
-   "tv": [
-    "Sky Sport Bundesliga 5",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195743",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-24T16:30:00.000Z",
-   "home": "Borussia Dortmund",
-   "away": "Eintracht Frankfurt",
-   "tv": [
-    "Sky Sport Bundesliga 1"
-   ]
-  },
-  {
-   "id": "193822",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-24T18:30:00.000Z",
-   "home": "1. FC Nürnberg",
-   "away": "1. FC Kaiserslautern",
-   "tv": [
-    "NITRO",
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Top Event"
-   ]
-  },
   {
    "id": "193824",
    "competition": "bl2",
@@ -195,6 +68,7 @@
    "away": "Eintracht Braunschweig",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Top Event"
    ]
   },
@@ -207,6 +81,7 @@
    "away": "VfL Bochum",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Top Event"
    ]
   },
@@ -231,6 +106,7 @@
    "away": "VfL Osnabrück",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -244,6 +120,7 @@
    "away": "1. FC Magdeburg",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -257,6 +134,7 @@
    "away": "Hertha BSC",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 5",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -269,7 +147,7 @@
    "home": "Bayer Leverkusen",
    "away": "VfB Stuttgart",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 5",
     "WOW",
     "DAZN"
    ]
@@ -282,7 +160,7 @@
    "home": "FC Augsburg",
    "away": "SC Freiburg",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 2",
     "WOW",
     "DAZN"
    ]
@@ -295,7 +173,7 @@
    "home": "Borussia Mönchengladbach",
    "away": "SC Paderborn 07",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 3",
     "WOW",
     "DAZN"
    ]
@@ -308,7 +186,7 @@
    "home": "SV Werder Bremen",
    "away": "1899 Hoffenheim",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 4",
     "WOW",
     "DAZN"
    ]
@@ -321,9 +199,8 @@
    "home": "FC Schalke 04",
    "away": "RB Leipzig",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
-    "DAZN"
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -360,6 +237,7 @@
    "away": "1. FC Nürnberg",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
    ]
   },
@@ -372,6 +250,7 @@
    "away": "Dynamo Dresden",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Top Event"
    ]
   },
@@ -384,6 +263,7 @@
    "away": "Holstein Kiel",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Top Event"
    ]
   },
