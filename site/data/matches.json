@@ -1,170 +1,6 @@
 {
- "generatedAt": "2026-10-25T21:05:03.253Z",
+ "generatedAt": "2026-10-26T10:42:34.995Z",
  "matches": [
-  {
-   "id": "193824",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-25T12:30:00.000Z",
-   "home": "Holstein Kiel",
-   "away": "Dynamo Dresden",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 2"
-   ]
-  },
-  {
-   "id": "193826",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-25T12:30:00.000Z",
-   "home": "Eintracht Braunschweig",
-   "away": "Hannover 96",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 3"
-   ]
-  },
-  {
-   "id": "193827",
-   "competition": "bl2",
-   "round": "09. Spieltag",
-   "kickoff": "2026-10-25T12:30:00.000Z",
-   "home": "VfL Osnabrück",
-   "away": "SpVgg Greuther Fürth",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 4"
-   ]
-  },
-  {
-   "id": "196691",
-   "competition": "liga",
-   "round": "10. Spieltag",
-   "kickoff": "2026-10-25T13:00:00.000Z",
-   "home": "Athletic Bilbao",
-   "away": "FC Getafe",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193495",
-   "competition": "pl",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-25T14:00:00.000Z",
-   "home": "Crystal Palace",
-   "away": "Newcastle United",
-   "tv": [
-    "Sky Sport",
-    "WOW"
-   ]
-  },
-  {
-   "id": "193496",
-   "competition": "pl",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-25T14:00:00.000Z",
-   "home": "Hull City AFC",
-   "away": "Brentford FC",
-   "tv": [
-    "Sky Sport",
-    "WOW"
-   ]
-  },
-  {
-   "id": "193498",
-   "competition": "pl",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-25T14:00:00.000Z",
-   "home": "FC Liverpool",
-   "away": "Brighton and Hove Albion",
-   "tv": [
-    "Sky Sport Premier League",
-    "Sky Sport",
-    "Sky Sport Austria 3"
-   ]
-  },
-  {
-   "id": "193499",
-   "competition": "pl",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-25T14:00:00.000Z",
-   "home": "Manchester United",
-   "away": "AFC Bournemouth",
-   "tv": [
-    "Sky Sport Mix",
-    "WOW"
-   ]
-  },
-  {
-   "id": "195746",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-25T14:30:00.000Z",
-   "home": "1899 Hoffenheim",
-   "away": "Bayer Leverkusen",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "196693",
-   "competition": "liga",
-   "round": "10. Spieltag",
-   "kickoff": "2026-10-25T15:15:00.000Z",
-   "home": "R.C. Celta de Vigo",
-   "away": "Real Betis Balompié",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193500",
-   "competition": "pl",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-25T16:30:00.000Z",
-   "home": "AFC Sunderland",
-   "away": "Leeds United",
-   "tv": [
-    "Sky Sport Premier League",
-    "Sky Sport",
-    "Sky Sport Austria 3"
-   ]
-  },
-  {
-   "id": "195747",
-   "competition": "bl1",
-   "round": "07. Spieltag",
-   "kickoff": "2026-10-25T16:30:00.000Z",
-   "home": "SC Freiburg",
-   "away": "FC Bayern München",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "196697",
-   "competition": "liga",
-   "round": "10. Spieltag",
-   "kickoff": "2026-10-25T17:30:00.000Z",
-   "home": "Real Sociedad",
-   "away": "UD Levante",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "196694",
-   "competition": "liga",
-   "round": "10. Spieltag",
-   "kickoff": "2026-10-25T20:00:00.000Z",
-   "home": "FC Barcelona",
-   "away": "Real Madrid",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "196698",
    "competition": "liga",
@@ -1299,7 +1135,10 @@
    "kickoff": "2026-11-08T14:00:00.000Z",
    "home": "Brighton and Hove Albion",
    "away": "Brentford FC",
-   "tv": []
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport"
+   ]
   },
   {
    "id": "193632",
@@ -1308,7 +1147,10 @@
    "kickoff": "2026-11-08T14:00:00.000Z",
    "home": "Crystal Palace",
    "away": "FC Liverpool",
-   "tv": []
+   "tv": [
+    "Sky Sport Premier League",
+    "WOW"
+   ]
   },
   {
    "id": "193635",
@@ -1317,7 +1159,10 @@
    "kickoff": "2026-11-08T14:00:00.000Z",
    "home": "Ipswich Town",
    "away": "AFC Bournemouth",
-   "tv": []
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport"
+   ]
   },
   {
    "id": "193639",
@@ -1326,7 +1171,10 @@
    "kickoff": "2026-11-08T14:00:00.000Z",
    "home": "AFC Sunderland",
    "away": "FC Chelsea",
-   "tv": []
+   "tv": [
+    "Sky Sport Premier League",
+    "Sky Sport"
+   ]
   },
   {
    "id": "196127",
@@ -1346,7 +1194,10 @@
    "kickoff": "2026-11-08T16:30:00.000Z",
    "home": "Manchester United",
    "away": "Aston Villa",
-   "tv": []
+   "tv": [
+    "Sky Sport Top Event",
+    "Sky Sport Premier League"
+   ]
   },
   {
    "id": "196124",
