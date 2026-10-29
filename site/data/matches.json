@@ -1,110 +1,6 @@
 {
- "generatedAt": "2026-10-28T10:56:09.520Z",
+ "generatedAt": "2026-10-29T11:13:53.784Z",
  "matches": [
-  {
-   "id": "193456",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T17:00:00.000Z",
-   "home": "SSV Jeddeloh II",
-   "away": "Hertha BSC",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193459",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T17:00:00.000Z",
-   "home": "Dynamo Dresden",
-   "away": "FC Schalke 04",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193467",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T17:00:00.000Z",
-   "home": "SC Paderborn 07",
-   "away": "VfB Stuttgart",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193468",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T17:00:00.000Z",
-   "home": "SC Freiburg",
-   "away": "VfL Wolfsburg",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193464",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T19:45:00.000Z",
-   "home": "Holstein Kiel",
-   "away": "1899 Hoffenheim",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193465",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T19:45:00.000Z",
-   "home": "Bayer Leverkusen",
-   "away": "1. FC Nürnberg",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193466",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T19:45:00.000Z",
-   "home": "Hannover 96",
-   "away": "1. FC Kaiserslautern",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193470",
-   "competition": "pokal",
-   "round": "2. Runde",
-   "kickoff": "2026-10-28T19:45:00.000Z",
-   "home": "FC Bayern München",
-   "away": "1. FC Magdeburg",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Mix",
-    "Sky Sport"
-   ]
-  },
   {
    "id": "193834",
    "competition": "bl2",
@@ -651,6 +547,7 @@
    "away": "Slovan Bratislava",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 2",
     "DAZN"
    ]
   },
@@ -663,6 +560,7 @@
    "away": "AS Rom",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 5",
     "DAZN"
    ]
   },
@@ -675,6 +573,7 @@
    "away": "Paris St. Germain",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 6",
     "DAZN"
    ]
   },
@@ -687,6 +586,7 @@
    "away": "Real Madrid",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -699,6 +599,7 @@
    "away": "FC Liverpool",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -711,6 +612,7 @@
    "away": "Real Betis Balompié",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 2",
     "DAZN"
    ]
   },
@@ -723,6 +625,7 @@
    "away": "SSC Neapel",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -735,6 +638,7 @@
    "away": "Club Brügge",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 6",
     "DAZN"
    ]
   },
@@ -758,6 +662,7 @@
    "away": "Como 1907",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 5",
     "DAZN"
    ]
   },
@@ -770,6 +675,7 @@
    "away": "FC Arsenal",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -782,6 +688,7 @@
    "away": "Sabah FK",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 7",
     "DAZN"
    ]
   },
