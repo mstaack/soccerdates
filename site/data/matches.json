@@ -1,55 +1,6 @@
 {
- "generatedAt": "2026-10-30T11:08:15.068Z",
+ "generatedAt": "2026-10-31T10:41:32.336Z",
  "matches": [
-  {
-   "id": "193834",
-   "competition": "bl2",
-   "round": "10. Spieltag",
-   "kickoff": "2026-10-30T17:30:00.000Z",
-   "home": "Arminia Bielefeld",
-   "away": "Eintracht Braunschweig",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193836",
-   "competition": "bl2",
-   "round": "10. Spieltag",
-   "kickoff": "2026-10-30T17:30:00.000Z",
-   "home": "Energie Cottbus",
-   "away": "VfL Bochum",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "196119",
-   "competition": "bl1",
-   "round": "08. Spieltag",
-   "kickoff": "2026-10-30T19:30:00.000Z",
-   "home": "SV Elversberg",
-   "away": "1. FSV Mainz 05",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "196709",
-   "competition": "liga",
-   "round": "11. Spieltag",
-   "kickoff": "2026-10-30T20:00:00.000Z",
-   "home": "FC Villarreal",
-   "away": "Espanyol Barcelona",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "193828",
    "competition": "bl2",
@@ -1709,6 +1660,83 @@
    ]
   },
   {
+   "id": "197872",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-20T19:30:00.000Z",
+   "home": "FC Bayern München",
+   "away": "1. FC Köln",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "197873",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "SC Paderborn 07",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "197874",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "1899 Hoffenheim",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "197876",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "1. FC Union Berlin",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "197877",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "197880",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-21T14:30:00.000Z",
+   "home": "SV Elversberg",
+   "away": "SC Freiburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
    "id": "193640",
    "competition": "pl",
    "round": "11. Spieltag",
@@ -1801,6 +1829,18 @@
    "tv": []
   },
   {
+   "id": "197879",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-21T17:30:00.000Z",
+   "home": "FC Schalke 04",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
    "id": "193847",
    "competition": "bl2",
    "round": "12. Spieltag",
@@ -1811,6 +1851,28 @@
     "NITRO",
     "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "197875",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-22T14:30:00.000Z",
+   "home": "FC Augsburg",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "197878",
+   "competition": "bl1",
+   "round": "10. Spieltag",
+   "kickoff": "2026-11-22T16:30:00.000Z",
+   "home": "SV Werder Bremen",
+   "away": "Hamburger SV",
+   "tv": [
+    "DAZN"
    ]
   },
   {
