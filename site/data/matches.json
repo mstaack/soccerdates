@@ -1,30 +1,6 @@
 {
- "generatedAt": "2026-11-02T13:00:22.801Z",
+ "generatedAt": "2026-11-03T12:34:06.306Z",
  "matches": [
-  {
-   "id": "193509",
-   "competition": "pl",
-   "round": "09. Spieltag",
-   "kickoff": "2026-11-02T20:00:00.000Z",
-   "home": "Newcastle United",
-   "away": "FC Everton",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Premier League",
-    "Sky Sport Austria 1"
-   ]
-  },
-  {
-   "id": "196702",
-   "competition": "liga",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-02T20:00:00.000Z",
-   "home": "Deportivo La Coruña",
-   "away": "CA Osasuna",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "192186",
    "competition": "ucl",
@@ -1790,6 +1766,102 @@
     "NITRO",
     "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198171",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198172",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "Dynamo Dresden",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198173",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "RB Leipzig",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198174",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "FC Bayern München",
+   "away": "Hertha BSC",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198175",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "SV Darmstadt 98",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198176",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "1. FC Kaiserslautern",
+   "away": "SC Freiburg",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198177",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "Holstein Kiel",
+   "away": "1. FC Köln",
+   "tv": [
+    "RTL",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198178",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T23:00:00.000Z",
+   "home": "VfL Bochum",
+   "away": "FC Augsburg",
+   "tv": [
+    "RTL",
+    "WOW"
    ]
   },
   {
