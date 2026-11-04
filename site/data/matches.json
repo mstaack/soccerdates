@@ -1,122 +1,6 @@
 {
- "generatedAt": "2026-11-03T12:34:06.306Z",
+ "generatedAt": "2026-11-04T12:43:47.847Z",
  "matches": [
-  {
-   "id": "192186",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T17:45:00.000Z",
-   "home": "Schachtjor Donezk",
-   "away": "Sporting Lissabon",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 4",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192187",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T17:45:00.000Z",
-   "home": "Galatasaray Istanbul",
-   "away": "VfB Stuttgart",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 3",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192188",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "Atletico Madrid",
-   "away": "FC Bayern München",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 3"
-   ]
-  },
-  {
-   "id": "192189",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "FC Barcelona",
-   "away": "Aston Villa",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 4",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192190",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "FK Bodø/Glimt",
-   "away": "OSC Lille",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 8",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192191",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "Feyenoord Rotterdam",
-   "away": "Inter Mailand",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 7",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192192",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "Linzer ASK",
-   "away": "Slovan Bratislava",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 2",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192193",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "Manchester United",
-   "away": "AS Rom",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 5",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192194",
-   "competition": "ucl",
-   "round": "04. Spieltag",
-   "kickoff": "2026-11-03T20:00:00.000Z",
-   "home": "FC Villarreal",
-   "away": "Paris St. Germain",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 6",
-    "DAZN"
-   ]
-  },
   {
    "id": "192195",
    "competition": "ucl",
@@ -387,7 +271,6 @@
    "away": "SV Elversberg",
    "tv": [
     "Sky Sport Bundesliga",
-    "WOW",
     "DAZN"
    ]
   },
@@ -400,7 +283,6 @@
    "away": "FC Augsburg",
    "tv": [
     "Sky Sport Bundesliga",
-    "WOW",
     "DAZN"
    ]
   },
@@ -413,7 +295,7 @@
    "away": "FC Bayern München",
    "tv": [
     "Sky Sport Bundesliga",
-    "WOW",
+    "Sky Sport Top Event",
     "DAZN"
    ]
   },
@@ -426,7 +308,6 @@
    "away": "Eintracht Frankfurt",
    "tv": [
     "Sky Sport Bundesliga",
-    "WOW",
     "DAZN"
    ]
   },
@@ -1019,7 +900,9 @@
    "kickoff": "2026-11-15T19:45:00.000Z",
    "home": "Frankreich",
    "away": "Türkei",
-   "tv": []
+   "tv": [
+    "DAZN"
+   ]
   },
   {
    "id": "195217",
