@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T12:53:30.825Z",
+ "generatedAt": "2026-11-06T12:40:03.514Z",
  "matches": [
   {
    "id": "193841",
@@ -1939,6 +1939,83 @@
    "tv": []
   },
   {
+   "id": "198284",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-04T19:30:00.000Z",
+   "home": "FC Bayern München",
+   "away": "SC Paderborn 07",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198285",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-05T14:30:00.000Z",
+   "home": "RB Leipzig",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198286",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-05T14:30:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "Borussia Mönchengladbach",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198287",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-05T14:30:00.000Z",
+   "home": "SC Freiburg",
+   "away": "1899 Hoffenheim",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198289",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-05T14:30:00.000Z",
+   "home": "FC Augsburg",
+   "away": "1. FC Köln",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198290",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-05T14:30:00.000Z",
+   "home": "1. FC Union Berlin",
+   "away": "Hamburger SV",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
    "id": "193670",
    "competition": "pl",
    "round": "14. Spieltag",
@@ -2027,6 +2104,40 @@
    "home": "Tottenham Hotspur",
    "away": "FC Arsenal",
    "tv": []
+  },
+  {
+   "id": "198288",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-05T17:30:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "SV Werder Bremen",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198291",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-06T14:30:00.000Z",
+   "home": "FC Schalke 04",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198292",
+   "competition": "bl1",
+   "round": "12. Spieltag",
+   "kickoff": "2026-12-06T16:30:00.000Z",
+   "home": "SV Elversberg",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "DAZN"
+   ]
   },
   {
    "id": "192222",
@@ -2227,6 +2338,70 @@
    ]
   },
   {
+   "id": "198298",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-11T19:30:00.000Z",
+   "home": "Hamburger SV",
+   "away": "FC Schalke 04",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198293",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-12T14:30:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "FC Augsburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198294",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-12T14:30:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "1. FC Union Berlin",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198299",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-12T14:30:00.000Z",
+   "home": "1. FC Köln",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198301",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-12T14:30:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "SV Elversberg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
    "id": "193680",
    "competition": "pl",
    "round": "15. Spieltag",
@@ -2317,6 +2492,116 @@
    "tv": []
   },
   {
+   "id": "198297",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-12T17:30:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "Eintracht Frankfurt",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198296",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-13T14:30:00.000Z",
+   "home": "1. FSV Mainz 05",
+   "away": "SC Freiburg",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198295",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-13T16:30:00.000Z",
+   "home": "1899 Hoffenheim",
+   "away": "FC Bayern München",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198300",
+   "competition": "bl1",
+   "round": "13. Spieltag",
+   "kickoff": "2026-12-13T18:30:00.000Z",
+   "home": "SV Werder Bremen",
+   "away": "Bayer Leverkusen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198302",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-18T19:30:00.000Z",
+   "home": "FC Bayern München",
+   "away": "SV Werder Bremen",
+   "tv": [
+    "Sat.1",
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198304",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-19T14:30:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "Eintracht Frankfurt",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198306",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-19T14:30:00.000Z",
+   "home": "FC Augsburg",
+   "away": "SC Paderborn 07",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198307",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-19T14:30:00.000Z",
+   "home": "1. FSV Mainz 05",
+   "away": "1. FC Köln",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198310",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-19T14:30:00.000Z",
+   "home": "SV Elversberg",
+   "away": "Hamburger SV",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
    "id": "193690",
    "competition": "pl",
    "round": "16. Spieltag",
@@ -2405,6 +2690,51 @@
    "home": "AFC Sunderland",
    "away": "Crystal Palace",
    "tv": []
+  },
+  {
+   "id": "198303",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-19T17:30:00.000Z",
+   "home": "RB Leipzig",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198305",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-20T14:30:00.000Z",
+   "home": "SC Freiburg",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198308",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-20T16:30:00.000Z",
+   "home": "1. FC Union Berlin",
+   "away": "1899 Hoffenheim",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198309",
+   "competition": "bl1",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-20T18:30:00.000Z",
+   "home": "FC Schalke 04",
+   "away": "Borussia Mönchengladbach",
+   "tv": [
+    "DAZN"
+   ]
   },
   {
    "id": "193595",
@@ -2722,6 +3052,343 @@
    "tv": []
   },
   {
+   "id": "198311",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-08T19:30:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "Sat.1",
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198312",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-09T14:30:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "FC Augsburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198313",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-09T14:30:00.000Z",
+   "home": "1899 Hoffenheim",
+   "away": "SV Elversberg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198314",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-09T14:30:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "FC Schalke 04",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198317",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-09T14:30:00.000Z",
+   "home": "1. FC Köln",
+   "away": "SC Freiburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198319",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-09T14:30:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198315",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-09T17:30:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "FC Bayern München",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198318",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-10T14:30:00.000Z",
+   "home": "SV Werder Bremen",
+   "away": "1. FC Union Berlin",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198316",
+   "competition": "bl1",
+   "round": "15. Spieltag",
+   "kickoff": "2027-01-10T16:30:00.000Z",
+   "home": "Hamburger SV",
+   "away": "Bayer Leverkusen",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198321",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-12T17:30:00.000Z",
+   "home": "RB Leipzig",
+   "away": "VfB Stuttgart",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198323",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-12T19:30:00.000Z",
+   "home": "FC Augsburg",
+   "away": "Borussia Mönchengladbach",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198324",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-12T19:30:00.000Z",
+   "home": "1. FSV Mainz 05",
+   "away": "1899 Hoffenheim",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198326",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-12T19:30:00.000Z",
+   "home": "1. FC Köln",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198328",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-13T17:30:00.000Z",
+   "home": "SV Elversberg",
+   "away": "Eintracht Frankfurt",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198320",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-13T19:30:00.000Z",
+   "home": "FC Bayern München",
+   "away": "Bayer Leverkusen",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198322",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-13T19:30:00.000Z",
+   "home": "SC Freiburg",
+   "away": "Hamburger SV",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198325",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-13T19:30:00.000Z",
+   "home": "1. FC Union Berlin",
+   "away": "SC Paderborn 07",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198327",
+   "competition": "bl1",
+   "round": "16. Spieltag",
+   "kickoff": "2027-01-14T19:30:00.000Z",
+   "home": "FC Schalke 04",
+   "away": "SV Werder Bremen",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198330",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-15T19:30:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198329",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-16T14:30:00.000Z",
+   "home": "Borussia Dortmund",
+   "away": "SC Freiburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198331",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-16T14:30:00.000Z",
+   "home": "1899 Hoffenheim",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198334",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-16T14:30:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "1. FC Union Berlin",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198335",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-16T14:30:00.000Z",
+   "home": "Hamburger SV",
+   "away": "FC Augsburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198337",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-16T14:30:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "1. FC Köln",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198333",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-16T17:30:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "FC Bayern München",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198336",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-17T14:30:00.000Z",
+   "home": "SV Werder Bremen",
+   "away": "SV Elversberg",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198332",
+   "competition": "bl1",
+   "round": "17. Spieltag",
+   "kickoff": "2027-01-17T16:30:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "FC Schalke 04",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
    "id": "192240",
    "competition": "ucl",
    "round": "07. Spieltag",
@@ -2897,6 +3564,115 @@
    "kickoff": "2027-01-20T20:00:00.000Z",
    "home": "Viking Stavanger FK",
    "away": "PSV Eindhoven",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198344",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-22T19:30:00.000Z",
+   "home": "SV Werder Bremen",
+   "away": "SC Freiburg",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198338",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-23T14:30:00.000Z",
+   "home": "VfB Stuttgart",
+   "away": "FC Bayern München",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198342",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-23T14:30:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "RB Leipzig",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198345",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-23T14:30:00.000Z",
+   "home": "FC Schalke 04",
+   "away": "FC Augsburg",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198346",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-23T14:30:00.000Z",
+   "home": "SC Paderborn 07",
+   "away": "1. FSV Mainz 05",
+   "tv": [
+    "Sky Sport Bundesliga",
+    "WOW",
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198343",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-23T17:30:00.000Z",
+   "home": "Hamburger SV",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "198341",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-24T14:30:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "1. FC Union Berlin",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198340",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-24T16:30:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "SV Elversberg",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
+   "id": "198339",
+   "competition": "bl1",
+   "round": "18. Spieltag",
+   "kickoff": "2027-01-24T18:30:00.000Z",
+   "home": "1899 Hoffenheim",
+   "away": "1. FC Köln",
    "tv": [
     "DAZN"
    ]
