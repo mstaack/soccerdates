@@ -1,193 +1,6 @@
 {
- "generatedAt": "2026-11-08T11:38:24.235Z",
+ "generatedAt": "2026-11-09T13:32:53.989Z",
  "matches": [
-  {
-   "id": "193837",
-   "competition": "bl2",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-08T12:30:00.000Z",
-   "home": "1. FC Heidenheim 1846",
-   "away": "Hannover 96",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193840",
-   "competition": "bl2",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-08T12:30:00.000Z",
-   "home": "VfL Bochum",
-   "away": "Karlsruher SC",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193843",
-   "competition": "bl2",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-08T12:30:00.000Z",
-   "home": "1. FC Magdeburg",
-   "away": "FC St. Pauli",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "197447",
-   "competition": "liga",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-08T13:00:00.000Z",
-   "home": "Elche C.F.",
-   "away": "Real Betis Balompié",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193631",
-   "competition": "pl",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-08T14:00:00.000Z",
-   "home": "Brighton and Hove Albion",
-   "away": "Brentford FC",
-   "tv": [
-    "Sky Sport Premier League",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193632",
-   "competition": "pl",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-08T14:00:00.000Z",
-   "home": "Crystal Palace",
-   "away": "FC Liverpool",
-   "tv": [
-    "Sky Sport Premier League",
-    "WOW"
-   ]
-  },
-  {
-   "id": "193635",
-   "competition": "pl",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-08T14:00:00.000Z",
-   "home": "Ipswich Town",
-   "away": "AFC Bournemouth",
-   "tv": [
-    "Sky Sport Premier League",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "193639",
-   "competition": "pl",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-08T14:00:00.000Z",
-   "home": "AFC Sunderland",
-   "away": "FC Chelsea",
-   "tv": [
-    "Sky Sport Premier League",
-    "Sky Sport"
-   ]
-  },
-  {
-   "id": "196127",
-   "competition": "bl1",
-   "round": "09. Spieltag",
-   "kickoff": "2026-11-08T14:30:00.000Z",
-   "home": "1. FC Köln",
-   "away": "Bayer Leverkusen",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "197451",
-   "competition": "liga",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-08T15:15:00.000Z",
-   "home": "Real Sociedad",
-   "away": "Rayo Vallecano",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193637",
-   "competition": "pl",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-08T16:30:00.000Z",
-   "home": "Manchester United",
-   "away": "Aston Villa",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Premier League"
-   ]
-  },
-  {
-   "id": "196124",
-   "competition": "bl1",
-   "round": "09. Spieltag",
-   "kickoff": "2026-11-08T16:30:00.000Z",
-   "home": "SC Freiburg",
-   "away": "1. FC Union Berlin",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "197446",
-   "competition": "liga",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-08T17:30:00.000Z",
-   "home": "R.C. Celta de Vigo",
-   "away": "UD Levante",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "197454",
-   "competition": "liga",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-08T17:30:00.000Z",
-   "home": "FC Villarreal",
-   "away": "FC Getafe",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "196123",
-   "competition": "bl1",
-   "round": "09. Spieltag",
-   "kickoff": "2026-11-08T18:30:00.000Z",
-   "home": "1899 Hoffenheim",
-   "away": "FC Schalke 04",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "197445",
-   "competition": "liga",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-08T20:00:00.000Z",
-   "home": "Atletico Madrid",
-   "away": "FC Barcelona",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "195218",
    "competition": "nl",
@@ -625,7 +438,8 @@
    "home": "Deutschland",
    "away": "Niederlande",
    "tv": [
-    "ARD"
+    "ARD",
+    "DAZN"
    ]
   },
   {
@@ -1383,6 +1197,30 @@
    ]
   },
   {
+   "id": "193855",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-27T17:30:00.000Z",
+   "home": "1. FC Heidenheim 1846",
+   "away": "1. FC Nürnberg",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193857",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-27T17:30:00.000Z",
+   "home": "VfL Bochum",
+   "away": "SV Darmstadt 98",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
    "id": "197888",
    "competition": "bl1",
    "round": "11. Spieltag",
@@ -1403,6 +1241,45 @@
    "away": "Racing Santander",
    "tv": [
     "DAZN"
+   ]
+  },
+  {
+   "id": "193856",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-28T12:00:00.000Z",
+   "home": "Hertha BSC",
+   "away": "Karlsruher SC",
+   "tv": [
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193858",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-28T12:00:00.000Z",
+   "home": "Dynamo Dresden",
+   "away": "FC St. Pauli",
+   "tv": [
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193859",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-28T12:00:00.000Z",
+   "home": "Holstein Kiel",
+   "away": "1. FC Kaiserslautern",
+   "tv": [
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 7",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -1619,6 +1496,42 @@
    ]
   },
   {
+   "id": "193860",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-29T12:30:00.000Z",
+   "home": "1. FC Magdeburg",
+   "away": "Energie Cottbus",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193861",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-29T12:30:00.000Z",
+   "home": "Eintracht Braunschweig",
+   "away": "VfL Wolfsburg",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193862",
+   "competition": "bl2",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-29T12:30:00.000Z",
+   "home": "SpVgg Greuther Fürth",
+   "away": "Arminia Bielefeld",
+   "tv": [
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
+   ]
+  },
+  {
    "id": "198456",
    "competition": "liga",
    "round": "14. Spieltag",
@@ -1707,74 +1620,15 @@
    ]
   },
   {
-   "id": "198171",
-   "competition": "pokal",
-   "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
-   "home": "Eintracht Frankfurt",
-   "away": "Borussia Dortmund",
-   "tv": [
-    "RTL",
-    "WOW"
-   ]
-  },
-  {
    "id": "198172",
    "competition": "pokal",
    "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
+   "kickoff": "2026-12-01T17:00:00.000Z",
    "home": "VfB Stuttgart",
    "away": "Dynamo Dresden",
    "tv": [
     "RTL",
-    "WOW"
-   ]
-  },
-  {
-   "id": "198173",
-   "competition": "pokal",
-   "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
-   "home": "Bayer Leverkusen",
-   "away": "RB Leipzig",
-   "tv": [
-    "RTL",
-    "WOW"
-   ]
-  },
-  {
-   "id": "198174",
-   "competition": "pokal",
-   "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
-   "home": "FC Bayern München",
-   "away": "Hertha BSC",
-   "tv": [
-    "RTL",
-    "WOW"
-   ]
-  },
-  {
-   "id": "198175",
-   "competition": "pokal",
-   "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
-   "home": "Borussia Mönchengladbach",
-   "away": "SV Darmstadt 98",
-   "tv": [
-    "RTL",
-    "WOW"
-   ]
-  },
-  {
-   "id": "198176",
-   "competition": "pokal",
-   "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
-   "home": "1. FC Kaiserslautern",
-   "away": "SC Freiburg",
-   "tv": [
-    "RTL",
+    "Sky Sport",
     "WOW"
    ]
   },
@@ -1782,23 +1636,89 @@
    "id": "198177",
    "competition": "pokal",
    "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
+   "kickoff": "2026-12-01T17:00:00.000Z",
    "home": "Holstein Kiel",
    "away": "1. FC Köln",
    "tv": [
     "RTL",
+    "Sky Sport",
     "WOW"
+   ]
+  },
+  {
+   "id": "198174",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T19:45:00.000Z",
+   "home": "FC Bayern München",
+   "away": "Hertha BSC",
+   "tv": [
+    "RTL",
+    "Sky Sport"
+   ]
+  },
+  {
+   "id": "198175",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-01T19:45:00.000Z",
+   "home": "Borussia Mönchengladbach",
+   "away": "SV Darmstadt 98",
+   "tv": [
+    "RTL",
+    "Sky Sport",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198173",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-02T17:00:00.000Z",
+   "home": "Bayer Leverkusen",
+   "away": "RB Leipzig",
+   "tv": [
+    "ZDF",
+    "ServusTV",
+    "RTL"
+   ]
+  },
+  {
+   "id": "198176",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-02T17:00:00.000Z",
+   "home": "1. FC Kaiserslautern",
+   "away": "SC Freiburg",
+   "tv": [
+    "RTL",
+    "Sky Sport",
+    "WOW"
+   ]
+  },
+  {
+   "id": "198171",
+   "competition": "pokal",
+   "round": "Achtelfinale",
+   "kickoff": "2026-12-02T19:45:00.000Z",
+   "home": "Eintracht Frankfurt",
+   "away": "Borussia Dortmund",
+   "tv": [
+    "ARD",
+    "ServusTV",
+    "Sky Sport"
    ]
   },
   {
    "id": "198178",
    "competition": "pokal",
    "round": "Achtelfinale",
-   "kickoff": "2026-12-01T23:00:00.000Z",
+   "kickoff": "2026-12-02T19:45:00.000Z",
    "home": "VfL Bochum",
    "away": "FC Augsburg",
    "tv": [
     "RTL",
+    "Sky Sport",
     "WOW"
    ]
   },
