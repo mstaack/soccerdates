@@ -1,94 +1,6 @@
 {
- "generatedAt": "2026-11-12T13:29:24.467Z",
+ "generatedAt": "2026-11-13T12:46:38.285Z",
  "matches": [
-  {
-   "id": "195218",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T17:00:00.000Z",
-   "home": "Türkei",
-   "away": "Belgien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195248",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T17:00:00.000Z",
-   "home": "Armenien",
-   "away": "Zypern",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "194697",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T19:45:00.000Z",
-   "home": "Italien",
-   "away": "Frankreich",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195223",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T19:45:00.000Z",
-   "home": "England",
-   "away": "Kroatien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195224",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T19:45:00.000Z",
-   "home": "Tschechien",
-   "away": "Spanien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195243",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T19:45:00.000Z",
-   "home": "Albanien",
-   "away": "Finnland",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195246",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T19:45:00.000Z",
-   "home": "San Marino",
-   "away": "Belarus",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195247",
-   "competition": "nl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-12T19:45:00.000Z",
-   "home": "Montenegro",
-   "away": "Lettland",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "195254",
    "competition": "nl",
@@ -108,8 +20,7 @@
    "home": "Serbien",
    "away": "Deutschland",
    "tv": [
-    "RTL",
-    "DAZN"
+    "RTL"
    ]
   },
   {
@@ -1816,6 +1727,7 @@
    "home": "FC Liverpool",
    "away": "AFC Sunderland",
    "tv": [
+    "RTL",
     "Sky Sport Premier League",
     "Sky Sport"
    ]
@@ -2012,15 +1924,6 @@
    "tv": []
   },
   {
-   "id": "193672",
-   "competition": "pl",
-   "round": "14. Spieltag",
-   "kickoff": "2026-12-05T15:00:00.000Z",
-   "home": "Brentford FC",
-   "away": "Manchester City",
-   "tv": []
-  },
-  {
    "id": "193673",
    "competition": "pl",
    "round": "14. Spieltag",
@@ -2093,6 +1996,17 @@
    "tv": [
     "Sky Sport Bundesliga 1",
     "Sky Sport Top Event"
+   ]
+  },
+  {
+   "id": "193672",
+   "competition": "pl",
+   "round": "14. Spieltag",
+   "kickoff": "2026-12-05T20:00:00.000Z",
+   "home": "Brentford FC",
+   "away": "Manchester City",
+   "tv": [
+    "RTL"
    ]
   },
   {
@@ -2449,7 +2363,9 @@
    "kickoff": "2026-12-12T15:00:00.000Z",
    "home": "FC Liverpool",
    "away": "Leeds United",
-   "tv": []
+   "tv": [
+    "RTL"
+   ]
   },
   {
    "id": "193688",
@@ -2649,7 +2565,9 @@
    "kickoff": "2026-12-19T15:00:00.000Z",
    "home": "Manchester City",
    "away": "Hull City AFC",
-   "tv": []
+   "tv": [
+    "RTL"
+   ]
   },
   {
    "id": "193698",
@@ -2802,7 +2720,9 @@
    "kickoff": "2026-12-27T19:00:00.000Z",
    "home": "Crystal Palace",
    "away": "FC Arsenal",
-   "tv": []
+   "tv": [
+    "RTL"
+   ]
   },
   {
    "id": "193610",
@@ -2829,7 +2749,9 @@
    "kickoff": "2026-12-29T20:15:00.000Z",
    "home": "FC Everton",
    "away": "Manchester City",
-   "tv": []
+   "tv": [
+    "RTL"
+   ]
   },
   {
    "id": "193606",
@@ -2937,7 +2859,9 @@
    "kickoff": "2027-01-02T15:00:00.000Z",
    "home": "FC Liverpool",
    "away": "Coventry City",
-   "tv": []
+   "tv": [
+    "RTL"
+   ]
   },
   {
    "id": "193623",
@@ -3027,7 +2951,9 @@
    "kickoff": "2027-01-05T20:15:00.000Z",
    "home": "AFC Sunderland",
    "away": "FC Liverpool",
-   "tv": []
+   "tv": [
+    "RTL"
+   ]
   },
   {
    "id": "198311",
