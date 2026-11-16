@@ -1,92 +1,6 @@
 {
- "generatedAt": "2026-11-15T12:26:12.343Z",
+ "generatedAt": "2026-11-16T13:18:23.263Z",
  "matches": [
-  {
-   "id": "195249",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T14:00:00.000Z",
-   "home": "Zypern",
-   "away": "Montenegro",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195250",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T14:00:00.000Z",
-   "home": "Lettland",
-   "away": "Armenien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195244",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T17:00:00.000Z",
-   "home": "Finnland",
-   "away": "San Marino",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195245",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T17:00:00.000Z",
-   "home": "Belarus",
-   "away": "Albanien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "194696",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T19:45:00.000Z",
-   "home": "Frankreich",
-   "away": "Türkei",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195217",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T19:45:00.000Z",
-   "home": "Belgien",
-   "away": "Italien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195221",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T19:45:00.000Z",
-   "home": "Spanien",
-   "away": "England",
-   "tv": []
-  },
-  {
-   "id": "195222",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-15T19:45:00.000Z",
-   "home": "Kroatien",
-   "away": "Tschechien",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "195251",
    "competition": "nl",
@@ -294,7 +208,8 @@
    "home": "SV Darmstadt 98",
    "away": "1. FC Heidenheim 1846",
    "tv": [
-    "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Top Event"
    ]
   },
@@ -306,7 +221,8 @@
    "home": "Arminia Bielefeld",
    "away": "1. FC Magdeburg",
    "tv": [
-    "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Top Event"
    ]
   },
@@ -342,6 +258,7 @@
    "away": "Holstein Kiel",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -355,6 +272,7 @@
    "away": "SpVgg Greuther Fürth",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -368,6 +286,7 @@
    "away": "Eintracht Braunschweig",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 5",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -404,7 +323,7 @@
    "home": "Bayer Leverkusen",
    "away": "SC Paderborn 07",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 2",
     "WOW",
     "DAZN"
    ]
@@ -417,7 +336,7 @@
    "home": "Eintracht Frankfurt",
    "away": "1899 Hoffenheim",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 3",
     "WOW",
     "DAZN"
    ]
@@ -430,7 +349,7 @@
    "home": "1. FC Union Berlin",
    "away": "RB Leipzig",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 4",
     "WOW",
     "DAZN"
    ]
@@ -443,9 +362,8 @@
    "home": "Borussia Mönchengladbach",
    "away": "Borussia Dortmund",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
-    "DAZN"
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -456,7 +374,7 @@
    "home": "SV Elversberg",
    "away": "SC Freiburg",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 5",
     "WOW",
     "DAZN"
    ]
@@ -589,6 +507,7 @@
    "away": "Dynamo Dresden",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
    ]
   },
@@ -601,6 +520,7 @@
    "away": "VfL Osnabrück",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Top Event"
    ]
   },
@@ -613,6 +533,7 @@
    "away": "Hertha BSC",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Top Event"
    ]
   },
@@ -965,7 +886,8 @@
    "home": "1. FC Heidenheim 1846",
    "away": "1. FC Nürnberg",
    "tv": [
-    "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Top Event"
    ]
   },
@@ -977,7 +899,8 @@
    "home": "VfL Bochum",
    "away": "SV Darmstadt 98",
    "tv": [
-    "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Top Event"
    ]
   },
