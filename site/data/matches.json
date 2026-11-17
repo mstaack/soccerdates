@@ -1,116 +1,6 @@
 {
- "generatedAt": "2026-11-16T13:18:23.263Z",
+ "generatedAt": "2026-11-17T14:03:07.555Z",
  "matches": [
-  {
-   "id": "195251",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T15:00:00.000Z",
-   "home": "Kasachstan",
-   "away": "Slowakei",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195253",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T15:00:00.000Z",
-   "home": "Färöer Inseln",
-   "away": "Republik Moldau",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195255",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T17:00:00.000Z",
-   "home": "Island",
-   "away": "Luxemburg",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195257",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T17:00:00.000Z",
-   "home": "Estland",
-   "away": "Bulgarien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195261",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T17:00:00.000Z",
-   "home": "Litauen",
-   "away": "Liechtenstein",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "186569",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T19:45:00.000Z",
-   "home": "Deutschland",
-   "away": "Niederlande",
-   "tv": [
-    "ARD"
-   ]
-  },
-  {
-   "id": "195220",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T19:45:00.000Z",
-   "home": "Griechenland",
-   "away": "Serbien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195230",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T19:45:00.000Z",
-   "home": "Schweiz",
-   "away": "Schottland",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195232",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T19:45:00.000Z",
-   "home": "Nordmazedonien",
-   "away": "Slowenien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "195259",
-   "competition": "nl",
-   "round": "06. Spieltag",
-   "kickoff": "2026-11-16T19:45:00.000Z",
-   "home": "Gibraltar",
-   "away": "Malta",
-   "tv": [
-    "DAZN"
-   ]
-  },
   {
    "id": "194099",
    "competition": "nl",
@@ -324,7 +214,6 @@
    "away": "SC Paderborn 07",
    "tv": [
     "Sky Sport Bundesliga 2",
-    "WOW",
     "DAZN"
    ]
   },
@@ -337,7 +226,6 @@
    "away": "1899 Hoffenheim",
    "tv": [
     "Sky Sport Bundesliga 3",
-    "WOW",
     "DAZN"
    ]
   },
@@ -350,7 +238,6 @@
    "away": "RB Leipzig",
    "tv": [
     "Sky Sport Bundesliga 4",
-    "WOW",
     "DAZN"
    ]
   },
@@ -363,7 +250,8 @@
    "away": "Borussia Dortmund",
    "tv": [
     "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
+    "Sky Sport Top Event",
+    "DAZN"
    ]
   },
   {
@@ -375,7 +263,6 @@
    "away": "SC Freiburg",
    "tv": [
     "Sky Sport Bundesliga 5",
-    "WOW",
     "DAZN"
    ]
   },
@@ -499,6 +386,17 @@
    ]
   },
   {
+   "id": "198445",
+   "competition": "liga",
+   "round": "13. Spieltag",
+   "kickoff": "2026-11-21T20:00:00.000Z",
+   "home": "Real Madrid",
+   "away": "R.C. Celta de Vigo",
+   "tv": [
+    "DAZN"
+   ]
+  },
+  {
    "id": "193850",
    "competition": "bl2",
    "round": "12. Spieltag",
@@ -584,17 +482,6 @@
    ]
   },
   {
-   "id": "198445",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-22T16:00:00.000Z",
-   "home": "Real Madrid",
-   "away": "R.C. Celta de Vigo",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
    "id": "193646",
    "competition": "pl",
    "round": "11. Spieltag",
@@ -673,6 +560,7 @@
    "away": "Linzer ASK",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 2",
     "DAZN"
    ]
   },
@@ -685,6 +573,7 @@
    "away": "Aston Villa",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -697,7 +586,7 @@
    "away": "Borussia Dortmund",
    "tv": [
     "Sky Sport Austria 1",
-    "Prime Video"
+    "Sky Sport Austria 3"
    ]
   },
   {
@@ -709,6 +598,7 @@
    "away": "AEK Athen",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 7",
     "DAZN"
    ]
   },
@@ -733,6 +623,7 @@
    "away": "SSC Neapel",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -745,6 +636,7 @@
    "away": "RC Lens",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 6",
     "DAZN"
    ]
   },
@@ -757,6 +649,7 @@
    "away": "PSV Eindhoven",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 5",
     "DAZN"
    ]
   },
@@ -769,6 +662,7 @@
    "away": "Real Betis Balompié",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 8",
     "DAZN"
    ]
   },
@@ -781,6 +675,7 @@
    "away": "FC Villarreal",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -793,6 +688,7 @@
    "away": "FC Barcelona",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
     "DAZN"
    ]
   },
@@ -805,6 +701,7 @@
    "away": "Viking Stavanger FK",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 6",
     "DAZN"
    ]
   },
@@ -817,6 +714,7 @@
    "away": "FC Liverpool",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 5",
     "DAZN"
    ]
   },
@@ -828,7 +726,9 @@
    "home": "Inter Mailand",
    "away": "VfB Stuttgart",
    "tv": [
-    "Sky Sport Austria 1"
+    "Sky Sport Austria 1",
+    "Sky Sport Austria 3",
+    "DAZN"
    ]
   },
   {
@@ -840,6 +740,7 @@
    "away": "Fenerbahçe Istanbul",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 7",
     "DAZN"
    ]
   },
@@ -863,6 +764,7 @@
    "away": "AS Rom",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 2",
     "DAZN"
    ]
   },
@@ -875,6 +777,7 @@
    "away": "Manchester United",
    "tv": [
     "Sky Sport Austria 1",
+    "Sky Sport Austria 4",
     "DAZN"
    ]
   },
@@ -1894,9 +1797,7 @@
    "kickoff": "2026-12-09T20:00:00.000Z",
    "home": "Borussia Dortmund",
    "away": "Inter Mailand",
-   "tv": [
-    "DAZN"
-   ]
+   "tv": []
   },
   {
    "id": "192235",
