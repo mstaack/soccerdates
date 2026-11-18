@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T14:03:07.555Z",
+ "generatedAt": "2026-11-18T13:37:37.578Z",
  "matches": [
   {
    "id": "194099",
@@ -189,7 +189,6 @@
    "home": "Manchester City",
    "away": "FC Fulham",
    "tv": [
-    "RTL",
     "Sky Sport Premier League",
     "Sky Sport Austria 1"
    ]
@@ -965,8 +964,7 @@
    "away": "Brentford FC",
    "tv": [
     "RTL",
-    "Sky Sport Premier League",
-    "WOW"
+    "Sky Sport Premier League"
    ]
   },
   {
@@ -1048,8 +1046,7 @@
    "away": "FC Liverpool",
    "tv": [
     "Sky Sport Premier League",
-    "Sky Sport",
-    "WOW"
+    "Sky Sport"
    ]
   },
   {
