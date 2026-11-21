@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T13:37:37.578Z",
+ "generatedAt": "2026-11-21T13:11:27.988Z",
  "matches": [
   {
    "id": "194099",
@@ -86,55 +86,6 @@
    "kickoff": "2026-11-17T19:45:00.000Z",
    "home": "Bosnien-Herzegowina",
    "away": "Rumänien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193849",
-   "competition": "bl2",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-20T17:30:00.000Z",
-   "home": "SV Darmstadt 98",
-   "away": "1. FC Heidenheim 1846",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193853",
-   "competition": "bl2",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-20T17:30:00.000Z",
-   "home": "Arminia Bielefeld",
-   "away": "1. FC Magdeburg",
-   "tv": [
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "197872",
-   "competition": "bl1",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-20T19:30:00.000Z",
-   "home": "FC Bayern München",
-   "away": "1. FC Köln",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "198438",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-20T20:00:00.000Z",
-   "home": "Athletic Bilbao",
-   "away": "Espanyol Barcelona",
    "tv": [
     "DAZN"
    ]
