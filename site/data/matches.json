@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T13:00:09.739Z",
+ "generatedAt": "2026-11-23T15:37:09.771Z",
  "matches": [
   {
    "id": "194099",
@@ -91,137 +91,6 @@
    ]
   },
   {
-   "id": "193850",
-   "competition": "bl2",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-22T12:30:00.000Z",
-   "home": "1. FC Kaiserslautern",
-   "away": "Dynamo Dresden",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 2",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193852",
-   "competition": "bl2",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-22T12:30:00.000Z",
-   "home": "Karlsruher SC",
-   "away": "VfL Osnabrück",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 3",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "193854",
-   "competition": "bl2",
-   "round": "12. Spieltag",
-   "kickoff": "2026-11-22T12:30:00.000Z",
-   "home": "Energie Cottbus",
-   "away": "Hertha BSC",
-   "tv": [
-    "Sky Sport Bundesliga 1",
-    "Sky Sport Bundesliga 4",
-    "Sky Sport Top Event"
-   ]
-  },
-  {
-   "id": "198439",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-22T13:00:00.000Z",
-   "home": "FC Barcelona",
-   "away": "FC Villarreal",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193645",
-   "competition": "pl",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-22T14:00:00.000Z",
-   "home": "Hull City AFC",
-   "away": "Brighton and Hove Albion",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Premier League",
-    "Sky Sport Austria 5"
-   ]
-  },
-  {
-   "id": "197875",
-   "competition": "bl1",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-22T14:30:00.000Z",
-   "home": "FC Augsburg",
-   "away": "1. FSV Mainz 05",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "198443",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-22T15:15:00.000Z",
-   "home": "Racing Santander",
-   "away": "Real Sociedad",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193646",
-   "competition": "pl",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-22T16:30:00.000Z",
-   "home": "FC Liverpool",
-   "away": "Manchester United",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Premier League",
-    "Sky Sport Austria 5"
-   ]
-  },
-  {
-   "id": "197878",
-   "competition": "bl1",
-   "round": "10. Spieltag",
-   "kickoff": "2026-11-22T16:30:00.000Z",
-   "home": "SV Werder Bremen",
-   "away": "Hamburger SV",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "198442",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-22T17:30:00.000Z",
-   "home": "CA Osasuna",
-   "away": "FC Malaga",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "198440",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-22T20:00:00.000Z",
-   "home": "FC Getafe",
-   "away": "Atletico Madrid",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
    "id": "193642",
    "competition": "pl",
    "round": "11. Spieltag",
@@ -304,6 +173,7 @@
    "home": "Feyenoord Rotterdam",
    "away": "FC Porto",
    "tv": [
+    "Sky Sport",
     "Sky Sport Austria 1",
     "DAZN"
    ]
@@ -594,7 +464,7 @@
    "home": "1. FSV Mainz 05",
    "away": "1. FC Union Berlin",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 2",
     "WOW",
     "DAZN"
    ]
@@ -607,9 +477,8 @@
    "home": "Hamburger SV",
    "away": "FC Bayern München",
    "tv": [
-    "Sky Sport Bundesliga",
-    "WOW",
-    "DAZN"
+    "Sky Sport Bundesliga 1",
+    "Sky Sport Top Event"
    ]
   },
   {
@@ -620,7 +489,7 @@
    "home": "1. FC Köln",
    "away": "SV Elversberg",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 3",
     "WOW",
     "DAZN"
    ]
@@ -633,7 +502,7 @@
    "home": "SC Paderborn 07",
    "away": "FC Schalke 04",
    "tv": [
-    "Sky Sport Bundesliga",
+    "Sky Sport Bundesliga 4",
     "WOW",
     "DAZN"
    ]
@@ -934,8 +803,7 @@
    "away": "Dynamo Dresden",
    "tv": [
     "RTL",
-    "Sky Sport",
-    "WOW"
+    "Sky Sport"
    ]
   },
   {
