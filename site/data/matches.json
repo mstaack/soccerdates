@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T15:37:09.771Z",
+ "generatedAt": "2026-11-24T15:28:20.222Z",
  "matches": [
   {
    "id": "194099",
@@ -86,30 +86,6 @@
    "kickoff": "2026-11-17T19:45:00.000Z",
    "home": "Bosnien-Herzegowina",
    "away": "Rumänien",
-   "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "193642",
-   "competition": "pl",
-   "round": "11. Spieltag",
-   "kickoff": "2026-11-23T20:00:00.000Z",
-   "home": "Brentford FC",
-   "away": "FC Everton",
-   "tv": [
-    "Sky Sport Top Event",
-    "Sky Sport Premier League",
-    "Sky Sport Austria 1"
-   ]
-  },
-  {
-   "id": "198441",
-   "competition": "liga",
-   "round": "13. Spieltag",
-   "kickoff": "2026-11-23T20:00:00.000Z",
-   "home": "UD Levante",
-   "away": "Elche C.F.",
    "tv": [
     "DAZN"
    ]
