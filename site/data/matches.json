@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T15:28:20.222Z",
+ "generatedAt": "2026-11-25T15:14:26.020Z",
  "matches": [
   {
    "id": "194099",
@@ -87,122 +87,6 @@
    "home": "Bosnien-Herzegowina",
    "away": "Rumänien",
    "tv": [
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192204",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T17:45:00.000Z",
-   "home": "FK Bodø/Glimt",
-   "away": "Linzer ASK",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 2",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192205",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T17:45:00.000Z",
-   "home": "Galatasaray Istanbul",
-   "away": "Aston Villa",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 3",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192206",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "FC Arsenal",
-   "away": "Borussia Dortmund",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 3"
-   ]
-  },
-  {
-   "id": "192207",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "Como 1907",
-   "away": "AEK Athen",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 7",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192208",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "Feyenoord Rotterdam",
-   "away": "FC Porto",
-   "tv": [
-    "Sky Sport",
-    "Sky Sport Austria 1",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192209",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "Manchester City",
-   "away": "SSC Neapel",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 4",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192210",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "RB Leipzig",
-   "away": "RC Lens",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 6",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192211",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "Real Madrid",
-   "away": "PSV Eindhoven",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 5",
-    "DAZN"
-   ]
-  },
-  {
-   "id": "192212",
-   "competition": "ucl",
-   "round": "05. Spieltag",
-   "kickoff": "2026-11-24T20:00:00.000Z",
-   "home": "Slovan Bratislava",
-   "away": "Real Betis Balompié",
-   "tv": [
-    "Sky Sport Austria 1",
-    "Sky Sport Austria 8",
     "DAZN"
    ]
   },
@@ -391,6 +275,7 @@
    "away": "Karlsruher SC",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -404,6 +289,7 @@
    "away": "FC St. Pauli",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -417,6 +303,7 @@
    "away": "1. FC Kaiserslautern",
    "tv": [
     "Sky Sport Bundesliga 2",
+    "Sky Sport Bundesliga 5",
     "Sky Sport Bundesliga 7",
     "Sky Sport Top Event"
    ]
@@ -441,7 +328,6 @@
    "away": "1. FC Union Berlin",
    "tv": [
     "Sky Sport Bundesliga 2",
-    "WOW",
     "DAZN"
    ]
   },
@@ -454,7 +340,8 @@
    "away": "FC Bayern München",
    "tv": [
     "Sky Sport Bundesliga 1",
-    "Sky Sport Top Event"
+    "Sky Sport Top Event",
+    "DAZN"
    ]
   },
   {
@@ -466,7 +353,6 @@
    "away": "SV Elversberg",
    "tv": [
     "Sky Sport Bundesliga 3",
-    "WOW",
     "DAZN"
    ]
   },
@@ -479,7 +365,6 @@
    "away": "FC Schalke 04",
    "tv": [
     "Sky Sport Bundesliga 4",
-    "WOW",
     "DAZN"
    ]
   },
@@ -598,6 +483,7 @@
    "away": "Energie Cottbus",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 2",
     "Sky Sport Top Event"
    ]
   },
@@ -610,6 +496,7 @@
    "away": "VfL Wolfsburg",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 3",
     "Sky Sport Top Event"
    ]
   },
@@ -622,6 +509,7 @@
    "away": "Arminia Bielefeld",
    "tv": [
     "Sky Sport Bundesliga 1",
+    "Sky Sport Bundesliga 4",
     "Sky Sport Top Event"
    ]
   },
